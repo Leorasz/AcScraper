@@ -1,0 +1,1931 @@
+[
+    {
+        "College": "Arizona State University",
+        "Position": "President",
+        "Name": "Michael M. Crow",
+        "Method": "Init"
+    },
+    {
+        "College": "Auburn University",
+        "Position": "President",
+        "Name": " - Christopher B. Roberts",
+        "Title": "Auburn University",
+        "Raw Out": "The President of Auburn University is Christopher B. Roberts, who officially began his tenure as the 21st president on May 16. He was previously the dean of the Samuel Ginn College of Engineering at Auburn and has been a part of the university community for nearly three decades.",
+        "Refined Out": "I'm happy to help! RES - Christopher B. Roberts",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Baylor University",
+        "Position": "President",
+        "Name": " Linda A. Livingstone",
+        "Title": "Office of the President | Office of the President | Baylor University",
+        "Raw Out": "I can't access the Baylor University website for you, but I can try to help you find the information you're looking for.\n\nBaylor University is a private Baptist university located in Waco, Texas. The current president of Baylor University is Linda A. Livingstone. She has been serving as the university's 15th president since June 2017.\n\nHere are some key facts about President Livingstone:\n\n* Education: Bachelor's degree from Baylor University (1982), Juris Doctor (J.D.) from Stanford Law School (1986)\n* Career: Before becoming president of Baylor, Livingstone served as provost and executive vice president at the university. She has also held positions at other institutions, including Southern Methodist University and the University of Texas.\n* Research interests: Higher education policy, leadership development, and women's studies\n* Awards and recognition: Recipient of the 2019 Baylor University Distinguished Service Award, the 2020 Association of American Colleges and Universities (AAC&U) National Leadership Award, and other honors.\n\nPlease note that this information may be subject to change. If you're looking for more up-to-date or detailed information about President Livingstone or Baylor University, I suggest visiting their official website or contacting the university directly.",
+        "Refined Out": "RES Linda A. Livingstone",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Binghamton University",
+        "Position": "President",
+        "Name": " Harvey G. Stenger",
+        "Title": "Harvey G. Stenger - Wikipedia",
+        "Raw Out": "You're looking for information about Harvey G. Stenger, the President of Binghamton University!\n\nAccording to Wikipedia, Harvey G. Stenger is an American educator and academic administrator who has been serving as the seventh president of Binghamton University since 2012.\n\nHere are some key points from his profile:\n\n* He received his Bachelor's degree in chemical engineering from Cornell University in 1979, and his Master's (MS) and Doctoral (PhD) degrees in chemical engineering from Massachusetts Institute of Technology (MIT) in 1983.\n* Prior to becoming the President of Binghamton University, he worked at Lehigh University as an assistant professor, associate professor, and professor of chemical engineering; later, he was a professor of chemical and biological engineering and dean at the School of Engineering and Applied Sciences at the University at Buffalo.\n* He served as the Interim Provost at the University at Buffalo before being appointed as the President of Binghamton University in 2012.\n\nIf you'd like to know more about his background, employment history, or other aspects of his life and career, just let me know!",
+        "Refined Out": "RES Harvey G. Stenger",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Boston College",
+        "Position": "President",
+        "Name": "William P. Leahy",
+        "Method": "Init"
+    },
+    {
+        "College": "Boston University",
+        "Position": "President",
+        "Name": "Melissa L. Gilliam",
+        "Method": "Init"
+    },
+    {
+        "College": "Brandeis University",
+        "Position": "President",
+        "Name": "Ronald D. Liebowitz",
+        "Method": "Init"
+    },
+    {
+        "College": "Brown University",
+        "Position": "President",
+        "Name": "President Christina H. Paxson",
+        "Method": "Init"
+    },
+    {
+        "College": "California Institute of Technology",
+        "Position": "President",
+        "Name": "Thomas F. Rosenbaum",
+        "Method": "Init"
+    },
+    {
+        "College": "Carnegie Mellon University",
+        "Position": "President",
+        "Name": "Farnam Jahanian",
+        "Method": "Init"
+    },
+    {
+        "College": "Case Western Reserve University",
+        "Position": "President",
+        "Name": "Eric Kaler",
+        "Method": "Init"
+    },
+    {
+        "College": "Clemson University",
+        "Position": "President",
+        "Name": " James Clements",
+        "Title": "President James P. Clements, Ph.D. - Clemson University",
+        "Raw Out": "There is no mention of the President of Clemson University in the provided data. The text appears to be a collection of statistics and achievements about the university under the leadership of its president, James Clements. It highlights advancements in enrollment, research, facilities, graduation rates, fundraising, and athletic success during his tenure.\n\nHowever, it does not provide information on the specific president or their background. If you're looking for that information, I suggest checking Clemson University's official website or contacting their administration directly.",
+        "Refined Out": "I'm stumped! idk RES James Clements",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Colorado School of Mines",
+        "Position": "President",
+        "Name": "Paul C. Johnson",
+        "Method": "Init"
+    },
+    {
+        "College": "Colorado State University",
+        "Position": "President",
+        "Name": "Amy Parsons",
+        "Method": "Init"
+    },
+    {
+        "College": "Columbia University",
+        "Position": "President",
+        "Name": "Katrina Armstrong",
+        "Method": "Init"
+    },
+    {
+        "College": "Cornell University",
+        "Position": "President",
+        "Name": "Michael Kotlikoff",
+        "Method": "Init"
+    },
+    {
+        "College": "Dartmouth College",
+        "Position": "President",
+        "Name": "Sian Beilock",
+        "Method": "Init"
+    },
+    {
+        "College": "Drexel University",
+        "Position": "President",
+        "Name": "John Anderson Fry",
+        "Method": "Init"
+    },
+    {
+        "College": "Duke University",
+        "Position": "President",
+        "Name": "Vincent Price",
+        "Method": "Init"
+    },
+    {
+        "College": "Emory University",
+        "Position": "President",
+        "Name": ": Gregory L. Fenves!",
+        "Title": "President, Emory University",
+        "Raw Out": "The President of Emory University is Gregory L. Fenves! He's a visionary leader who believes in the power of innovation and expects his university to lead the way. According to his profile, he sees Emory as an institution that doesn't wait for others to clear a path, but instead takes bold action to shape its own destiny.\n\nAs President, Fenves has focused on strengthening all nine schools at Emory, elevating the academic health system, and recommitting to staff and the city of Atlanta. He's also launched a strategic framework called One Emory: Ambition and Heart, which aims to guide the university into a bold future.\n\nFenves has been actively engaged in promoting racial and social justice initiatives on campus, partnering with students, faculty, staff, and alumni to drive positive change. He's also started a podcast series called \"One Big Question,\" where he asks Emory experts big questions about society, challenges we face, and innovative solutions they've discovered.\n\nAs you can see from his bio, Fenves is passionate about student flourishing, faculty eminence, and research excellence \u2013 all essential components of Emory's mission. He's a strong advocate for the university's values and is committed to making Emory an unparalleled destination for education.",
+        "Refined Out": "RES: Gregory L. Fenves!",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Florida International University",
+        "Position": "President",
+        "Name": "$650,000",
+        "Method": "Init"
+    },
+    {
+        "College": "Florida State University",
+        "Position": "President",
+        "Name": "$1M per year",
+        "Method": "Init"
+    },
+    {
+        "College": "George Mason University",
+        "Position": "President",
+        "Name": "Gregory Washington",
+        "Method": "Init"
+    },
+    {
+        "College": "George Washington University",
+        "Position": "President",
+        "Name": "Ellen Granberg",
+        "Method": "Init"
+    },
+    {
+        "College": "Georgetown University",
+        "Position": "President",
+        "Name": "John J. DeGioia",
+        "Method": "Init"
+    },
+    {
+        "College": "Georgia Institute of Technology",
+        "Position": "President",
+        "Name": "Angel Cabrera",
+        "Method": "Init"
+    },
+    {
+        "College": "Georgia State University",
+        "Position": "President",
+        "Name": "M. Brian Blake",
+        "Method": "Init"
+    },
+    {
+        "College": "Graduate Center, CUNY",
+        "Position": "President",
+        "Name": "William P. Kelly",
+        "Method": "Init"
+    },
+    {
+        "College": "Harvard University",
+        "Position": "President",
+        "Name": "Alan Garber",
+        "Method": "Init"
+    },
+    {
+        "College": "Indiana University Bloomington",
+        "Position": "President",
+        "Name": "President Pamela Whitten",
+        "Method": "Init"
+    },
+    {
+        "College": "Iowa State University",
+        "Position": "President",
+        "Name": "$710,000 per year",
+        "Method": "Init"
+    },
+    {
+        "College": "Johns Hopkins University",
+        "Position": "President",
+        "Name": "Ronald J. Daniels",
+        "Method": "Init"
+    },
+    {
+        "College": "Kansas State University",
+        "Position": "President",
+        "Name": "Richard Linton",
+        "Method": "Init"
+    },
+    {
+        "College": "Kent State University",
+        "Position": "President",
+        "Name": "Todd Diacon",
+        "Method": "Init"
+    },
+    {
+        "College": "Louisiana State University",
+        "Position": "President",
+        "Name": "William F. Tate IV",
+        "Method": "Init"
+    },
+    {
+        "College": "Massachusetts Institute of Technology",
+        "Position": "President",
+        "Name": "Sally Kornbluth",
+        "Method": "Init"
+    },
+    {
+        "College": "Michigan State University",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "Mississippi State University",
+        "Position": "President",
+        "Name": "Mark Keenum",
+        "Method": "Init"
+    },
+    {
+        "College": "Montana State University",
+        "Position": "President",
+        "Name": "Waded Cruzado",
+        "Method": "Init"
+    },
+    {
+        "College": "New Jersey Institute of Technology",
+        "Position": "President",
+        "Name": "Teik C. Lim",
+        "Method": "Init"
+    },
+    {
+        "College": "New York University",
+        "Position": "President",
+        "Name": " - According to the provided information, the current President of New York University (NYU) is Linda Mills, JD, LCSW, PhD.",
+        "Title": "New York University, President",
+        "Raw Out": "According to the text, Linda Mills, JD, LCSW, PhD is the President of New York University (NYU). She was announced as the university's 17th president by its Board of Trustees and will be the first woman to hold this position.",
+        "Refined Out": "RES - According to the provided information, the current President of New York University (NYU) is Linda Mills, JD, LCSW, PhD.",
+        "Method": "Full ask"
+    },
+    {
+        "College": "North Carolina State University",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "North Dakota State University",
+        "Position": "President",
+        "Name": "$420,000",
+        "Method": "Init"
+    },
+    {
+        "College": "Northeastern University",
+        "Position": "President",
+        "Name": "Joseph E. Aoun",
+        "Method": "Init"
+    },
+    {
+        "College": "Northwestern University",
+        "Position": "President",
+        "Name": "Michael Schill",
+        "Method": "Init"
+    },
+    {
+        "College": "Ohio State University",
+        "Position": "President",
+        "Name": "President Walter \u201cTed\u201d Carter Jr.",
+        "Method": "Init"
+    },
+    {
+        "College": "Ohio University",
+        "Position": "President",
+        "Name": "Lori Lee Stewart Gonzalez",
+        "Method": "Init"
+    },
+    {
+        "College": "Oklahoma State University\u2013Stillwater",
+        "Position": "President",
+        "Name": "Kayse Shrum",
+        "Method": "Init"
+    },
+    {
+        "College": "Old Dominion University",
+        "Position": "President",
+        "Name": "Brian Hemphill",
+        "Method": "Init"
+    },
+    {
+        "College": "Oregon State University",
+        "Position": "President",
+        "Name": "Jayathi Murthy -",
+        "Method": "Init"
+    },
+    {
+        "College": "Pennsylvania State University",
+        "Position": "President",
+        "Name": "Neeli Bendapudi",
+        "Method": "Init"
+    },
+    {
+        "College": "Princeton University",
+        "Position": "President",
+        "Name": "Christopher Ludwig Eisgruber",
+        "Method": "Init"
+    },
+    {
+        "College": "Purdue University",
+        "Position": "President",
+        "Name": "Mung Chiang",
+        "Method": "Init"
+    },
+    {
+        "College": "Rensselaer Polytechnic Institute",
+        "Position": "President",
+        "Name": " Martin A. Schmidt",
+        "Title": "About Martin Schmidt - Rensselaer Polytechnic Institute",
+        "Raw Out": "According to the provided data, Martin A. Schmidt is the 19th President of Rensselaer Polytechnic Institute (RPI), taking office on July 1, 2022. Prior to this role, he served as the provost of Massachusetts Institute of Technology (MIT) since 2014 and was also MIT's senior academic and budget officer.\n\nSome notable highlights from his background include:\n\n* He is a member of MIT's Department of Electrical Engineering and Computer Science faculty since 1988.\n* He served as director of MIT's Microsystems Technology Laboratories from 1999 to 2006 and as associate provost from 2008 to 2013.\n* He was the Ray and Maria Stata Professor of Electrical Engineering and Computer Science, and is a fellow of the Institute of Electrical and Electronics Engineers (IEEE).\n* He led efforts to foster an inclusive and well-supported community at MIT, including initiatives for diversity, equity, and inclusion.\n* He oversaw the development of Schwarzman College, which aimed to strengthen MIT's core computer science activities.\n\nAs president of RPI, Martin Schmidt likely plays a crucial role in shaping the institution's academic priorities, budget planning, and research support.",
+        "Refined Out": "RES Martin A. Schmidt",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Rice University",
+        "Position": "President",
+        "Name": "Reginald DesRoches",
+        "Method": "Init"
+    },
+    {
+        "College": "Rutgers University\u2013New Brunswick",
+        "Position": "President",
+        "Name": "Chancellor Francine Conway",
+        "Method": "Init"
+    },
+    {
+        "College": "Stanford University",
+        "Position": "President",
+        "Name": "President Jonathan Levin",
+        "Method": "Init"
+    },
+    {
+        "College": "Stony Brook University",
+        "Position": "President",
+        "Name": "Richard McCormick Richard L. McCormick",
+        "Method": "Init"
+    },
+    {
+        "College": "Syracuse University",
+        "Position": "President",
+        "Name": " - The President of Syracuse University is Kent Syverud!",
+        "Title": "Leadership and Administration - Syracuse University",
+        "Raw Out": "The President of Syracuse University is Kent Syverud. He was appointed by the University's Board of Trustees in September 2013 and assumed the leadership post in January 2014, becoming the 12th leader of the University since its founding in 1870.",
+        "Refined Out": "RES - The President of Syracuse University is Kent Syverud!",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Temple University",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "Texas A&M University",
+        "Position": "President",
+        "Name": "Mark A. Welsh III",
+        "Method": "Init"
+    },
+    {
+        "College": "Texas Tech University",
+        "Position": "President",
+        "Name": "President Lawrence Schovanec",
+        "Method": "Init"
+    },
+    {
+        "College": "Tufts University",
+        "Position": "President",
+        "Name": "Sunil Kumar",
+        "Method": "Init"
+    },
+    {
+        "College": "Tulane University",
+        "Position": "President",
+        "Name": " Michael A. Fitts",
+        "Title": "home | President - Tulane University",
+        "Raw Out": "According to the provided data, the President of Tulane University is Michael A. Fitts. He is one of the country's foremost higher education leaders and has been serving as the 15th president of Tulane University since 2014.\n\nUnder his leadership, Tulane University has become a world-class academic environment that fosters path-breaking interdisciplinary research, innovative teaching, a diverse and inclusive campus culture, and a holistic student experience.",
+        "Refined Out": "RES Michael A. Fitts",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University at Albany, SUNY",
+        "Position": "President",
+        "Name": " - The President of University at Albany, SUNY is Dr. Havid\u00e1n Rodr\u00edguez.",
+        "Title": "Havid\u00e1n Rodr\u00edguez - Wikipedia",
+        "Raw Out": "The President of University at Albany, SUNY is Dr. Havid\u00e1n Rodr\u00edguez. He has been serving as the 20th President of University at Albany, SUNY since 2017 and is still incumbent.\n\nAccording to Wikipedia, Dr. Rodr\u00edguez was previously featured on a national magazine cover, received the Delaware Hispanic of the Year award in 2007, and was recognized for his advocacy of workers' rights and humanitarian issues.\n\nBefore becoming the President of University at Albany, SUNY, Dr. Rodr\u00edguez held various academic positions, including being a professor at several universities, such as the University of Texas-Rio Grande Valley (UTRGV), where he served as provost.",
+        "Refined Out": "RES - The President of University at Albany, SUNY is Dr. Havid\u00e1n Rodr\u00edguez.",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University at Buffalo",
+        "Position": "President",
+        "Name": "Satish K. Tripathi",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Alabama",
+        "Position": "President",
+        "Name": " Dr. Stuart R. Bell",
+        "Title": "Office of the President \u2013 | The University of Alabama",
+        "Raw Out": "You're asking me about the President of the University of Alabama!\n\nAccording to the data you provided, the President of the University of Alabama is:\n\n**Dr. Stuart R. Bell**\n\nHere are some key facts about him:\n\n* He extends a warm invitation to join the university's vibrant campus community, where \"the possibilities are endless, and a revolutionary future awaits!\"\n* His message from the president emphasizes the importance of teaching, research, and service in making a positive impact on the world.\n* Under his leadership, the University of Alabama has made significant progress in various areas, including enrollment growth, research productivity, and community engagement.\n\nI hope this information is helpful! Let me know if you have any further questions.",
+        "Refined Out": "RES Dr. Stuart R. Bell",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of Alabama at Birmingham",
+        "Position": "President",
+        "Name": "Ray L. Watts",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Alabama in Huntsville",
+        "Position": "President",
+        "Name": "Charles L. Karr",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Arizona",
+        "Position": "President",
+        "Name": "Robert C. Robbins",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Arkansas",
+        "Position": "President",
+        "Name": "Donald R. Bobbitt",
+        "Method": "Init"
+    },
+    {
+        "College": "University of California, Berkeley",
+        "Position": "President",
+        "Name": "Michael V. Drake",
+        "Method": "Init"
+    },
+    {
+        "College": "University of California, Davis",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of California, Irvine",
+        "Position": "President",
+        "Name": " idk",
+        "Title": "University of California, Irvine",
+        "Raw Out": "According to this data, the President of University of California, Irvine (UCI) is not explicitly stated. The page appears to be a Wikipedia article about UCI, and it does not provide information about the current or past presidents of the university.\n\nHowever, I can suggest some possible ways to find the information you are looking for:\n\n1. Check the official website of UCI: You can visit the university's official website (uci.edu) and look for the \"About\" or \"Administration\" section, where you might find information about the current president.\n2. Search online: You can try searching online using search engines like Google with keywords such as \"UCI President\" or \"University of California, Irvine President\".\n3. Contact UCI's administration office: You can reach out to UCI's administration office directly and ask for information about the current president.",
+        "Refined Out": "RES idk",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of California, Los Angeles",
+        "Position": "President",
+        "Name": ": idk",
+        "Title": "University of California, Los Angeles",
+        "Raw Out": "The data you provided appears to be a list of universities from around the world, including University of California, Los Angeles (UCLA). However, I didn't find any information about the President of UCLA in this dataset.\n\nBut, according to Wikipedia, the current Chancellor of UCLA is Melvin L. Oliver, who has been serving since 2020. The chancellor is the chief executive officer of the university and is responsible for leading its academic, research, and administrative programs.\n\nIf you're looking for more information about the President or Chancellor of UCLA, I suggest checking out the official website of the University of California, Los Angeles (UCLA) or searching online for recent news articles or press releases.",
+        "Refined Out": "RES: idk",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of California, Riverside",
+        "Position": "President",
+        "Name": "Kim A. Wilcox",
+        "Method": "Init"
+    },
+    {
+        "College": "University of California, San Diego",
+        "Position": "President",
+        "Name": "Chancellor Pradeep K",
+        "Method": "Init"
+    },
+    {
+        "College": "University of California, Santa Barbara",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of California, Santa Cruz",
+        "Position": "President",
+        "Name": "",
+        "Title": "University of California, Santa Cruz",
+        "Raw Out": "A treasure trove of data!\n\nAccording to the provided list, there is no mention of a President at University of California, Santa Cruz. The text appears to be a collection of various entities and institutions related to the university, including:\n\n1. Medical centers and hospitals associated with UCSD (University of California, San Diego)\n2. Other universities and colleges, both public and private\n3. Educational institutions in Santa Cruz County, California\n4. Museums and cultural attractions in Santa Cruz, California\n\nThe only mention of University of California, Santa Cruz is in the categories section, which lists the university as a \"Public universities and colleges in California\" and also mentions its accreditation by the Western Association of Schools and Colleges.\n\nIt's possible that you may be looking for information on the Chancellor or Provost of UCSC, but there is no specific mention of a President in this data.",
+        "Refined Out": "idk RES",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of Central Florida",
+        "Position": "President",
+        "Name": "Dr. Alexander N. Cartwright",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Chicago",
+        "Position": "President",
+        "Name": "Paul Alivisatos",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Cincinnati",
+        "Position": "President",
+        "Name": "Neville G. Pinto",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Colorado Boulder",
+        "Position": "President",
+        "Name": "President Todd Saliman",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Colorado Denver",
+        "Position": "President",
+        "Name": "President Todd Saliman",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Connecticut",
+        "Position": "President",
+        "Name": "Radenka Maric",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Delaware",
+        "Position": "President",
+        "Name": "Athens, Greece",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Denver",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Florida",
+        "Position": "President",
+        "Name": "Kent Fuchs",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Georgia",
+        "Position": "President",
+        "Name": "Jere Morehead",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Hawai\u02bbi at M\u0101noa",
+        "Position": "President",
+        "Name": "President David Lassner",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Houston",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Illinois Chicago",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Illinois Urbana-Champaign",
+        "Position": "President",
+        "Name": "President Timothy L.",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Iowa",
+        "Position": "President",
+        "Name": "Barbara J. Wilson",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Kansas",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Kentucky",
+        "Position": "President",
+        "Name": "Eli Capilouto",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Louisiana at Lafayette",
+        "Position": "President",
+        "Name": "Joseph Savoie",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Louisville",
+        "Position": "President",
+        "Name": "Kim Schatzel",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Maine",
+        "Position": "President",
+        "Name": "Joan Ferrini-Mundy",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Maryland, Baltimore County",
+        "Position": "President",
+        "Name": "Valerie Ashby",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Maryland, College Park",
+        "Position": "President",
+        "Name": "Darryll Pines",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Massachusetts Amherst",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Memphis",
+        "Position": "President",
+        "Name": "Bill Hardgrave",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Miami",
+        "Position": "President",
+        "Name": "",
+        "Title": "Office of the President | University of Miami",
+        "Raw Out": "According to the provided data, the President of the University of Miami is not explicitly mentioned. However, there is a section titled \"Executive Leadership\" that lists several individuals, including:\n\n* Deans\n* Board of Trustees\n\nThere is no specific information about the current president or any past presidents. If you're looking for more information on the university's leadership, I can try to help you with that!",
+        "Refined Out": "idk RES",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of Michigan",
+        "Position": "President",
+        "Name": "Santa Ono",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Minnesota",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Mississippi",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Missouri",
+        "Position": "President",
+        "Name": "Mun Y. Choi",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Montana",
+        "Position": "President",
+        "Name": "Seth Bodnar",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Nebraska\u2013Lincoln",
+        "Position": "President",
+        "Name": "Walter E. Carter Jr.",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Nevada, Las Vegas",
+        "Position": "President",
+        "Name": "Keith Whitfield",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Nevada, Reno",
+        "Position": "President",
+        "Name": "Brian Sandoval",
+        "Method": "Init"
+    },
+    {
+        "College": "University of New Hampshire",
+        "Position": "President",
+        "Name": "James W. Dean Jr.",
+        "Method": "Init"
+    },
+    {
+        "College": "University of New Mexico",
+        "Position": "President",
+        "Name": "Garnett S. Stokes",
+        "Method": "Init"
+    },
+    {
+        "College": "University of North Carolina at Chapel Hill",
+        "Position": "President",
+        "Name": "President Peter Hans",
+        "Method": "Init"
+    },
+    {
+        "College": "University of North Texas",
+        "Position": "President",
+        "Name": "President Harrison Keller",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Notre Dame",
+        "Position": "President",
+        "Name": "Robert A. Dowd",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Oklahoma",
+        "Position": "President",
+        "Name": "Joseph Harroz, Jr.",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Oregon",
+        "Position": "President",
+        "Name": "John Karl Scholz",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Pennsylvania",
+        "Position": "President",
+        "Name": "J. Larry Jameson",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Pittsburgh",
+        "Position": "President",
+        "Name": "",
+        "Title": "University of Pittsburgh",
+        "Raw Out": "The President of University of Pittsburgh!\n\nAccording to the provided data, there is no specific information about the current or previous presidents of the University of Pittsburgh. The page appears to be a Wikipedia article about the university itself, providing information on its history, architecture, and academic programs.\n\nIf you're looking for information on the current president of the University of Pittsburgh, I'd recommend checking the university's official website or contacting their administration office directly.",
+        "Refined Out": "idk RES",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of Rochester",
+        "Position": "President",
+        "Name": "Sarah Charlotte Mangelsdorf",
+        "Method": "Init"
+    },
+    {
+        "College": "University of South Carolina",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of South Florida",
+        "Position": "President",
+        "Name": " Marshall Criser III",
+        "Title": "University of South Florida",
+        "Raw Out": "A treasure trove of information!\n\nAccording to the Wikipedia page you provided, the President of the University of South Florida (USF) is Marshall Criser III. He has been serving in this role since 2014.\n\nHowever, it's worth noting that the main purpose of this Wikipedia page appears to be about the university itself, its history, and various facts about USF. It does not contain specific information about the current or past presidents of the university beyond Marshall Criser III. If you're looking for more information on the president or other aspects of the university, I'd be happy to help you find it!",
+        "Refined Out": "RES Marshall Criser III",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of Southern California",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Southern Mississippi",
+        "Position": "President",
+        "Name": "Joseph S. Paul",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Tennessee",
+        "Position": "President",
+        "Name": "Randy Boyd",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas at Arlington",
+        "Position": "President",
+        "Name": "Jennifer Cowley",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas at Austin",
+        "Position": "President",
+        "Name": "Jay Hartzell",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas at Dallas",
+        "Position": "President",
+        "Name": "Rafael Mart\u00edn",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas at El Paso",
+        "Position": "President",
+        "Name": "Heather A. Wilson",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas at San Antonio",
+        "Position": "President",
+        "Name": "T. Taylor Eighmy",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Utah",
+        "Position": "President",
+        "Name": "Taylor Randall",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Virginia",
+        "Position": "President",
+        "Name": " James E. Ryan",
+        "Title": "Office of the President - The University of Virginia",
+        "Raw Out": "According to the provided data, the President of the University of Virginia is James E. Ryan, who serves as the ninth president of the university. Prior to becoming the president, Ryan was a respected and accomplished educator and legal scholar who earned his law degree from the University of Virginia. He also spent 15 years on the School of Law faculty before serving as dean of the Harvard Graduate School of Education from 2013 to 2018.\n\nAs president, Jim Ryan emphasizes the importance of being both great and good, recognizing that a university's greatness is closely tied to its goodness.",
+        "Refined Out": "RES James E. Ryan",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of Washington",
+        "Position": "President",
+        "Name": "Ana Mari Cauce",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Wisconsin\u2013Madison",
+        "Position": "President",
+        "Name": "$583,440",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Wisconsin\u2013Milwaukee",
+        "Position": "President",
+        "Name": "Chancellor Mark Mone",
+        "Method": "Init"
+    },
+    {
+        "College": "Utah State University",
+        "Position": "President",
+        "Name": "Elizabeth R. Cantwell",
+        "Method": "Init"
+    },
+    {
+        "College": "Vanderbilt University",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "Virginia Commonwealth University",
+        "Position": "President",
+        "Name": "Warren W. Brandt",
+        "Method": "Init"
+    },
+    {
+        "College": "Virginia Tech",
+        "Position": "President",
+        "Name": "Timothy Sands",
+        "Method": "Init"
+    },
+    {
+        "College": "Washington State University",
+        "Position": "President",
+        "Name": "Kirk Schulz",
+        "Method": "Init"
+    },
+    {
+        "College": "Washington University in St. Louis",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "Wayne State University",
+        "Position": "President",
+        "Name": "Kimberly Andrews Espy",
+        "Method": "Init"
+    },
+    {
+        "College": "West Virginia University",
+        "Position": "President",
+        "Name": "Elwood Gordon Gee",
+        "Method": "Init"
+    },
+    {
+        "College": "Yale University",
+        "Position": "President",
+        "Name": "Peter Salovey",
+        "Method": "Init"
+    },
+    {
+        "College": "Air Force Institute of Technology",
+        "Position": "President",
+        "Name": "Wright-Patterson Air Force Base, Ohio",
+        "Method": "Init"
+    },
+    {
+        "College": "American University",
+        "Position": "President",
+        "Name": "! The President of American University is Jonathan R. Alger.",
+        "Title": "Office of the President | American University, Washington, DC",
+        "Raw Out": "Based on the provided data, the President of American University is Jonathan R. Alger. He is the 16th President of American University and an experienced higher education leader who spent the last twelve years as president of James Madison University (JMU).",
+        "Refined Out": "RES! The President of American University is Jonathan R. Alger.",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Arizona State University Digital Immersion",
+        "Position": "President",
+        "Name": "President Michael M. Crow",
+        "Method": "Init"
+    },
+    {
+        "College": "Arkansas State University",
+        "Position": "President",
+        "Name": "Dr. Brendan Kelly",
+        "Method": "Init"
+    },
+    {
+        "College": "Augusta University",
+        "Position": "President",
+        "Name": "Brooks A. Keel",
+        "Method": "Init"
+    },
+    {
+        "College": "Azusa Pacific University",
+        "Position": "President",
+        "Name": "Adam J. Morris",
+        "Method": "Init"
+    },
+    {
+        "College": "Ball State University",
+        "Position": "President",
+        "Name": "Comila, Felipe Salaing",
+        "Method": "Init"
+    },
+    {
+        "College": "Boise State University",
+        "Position": "President",
+        "Name": " - The President of Boise State University is Dr. Marlene Tromp!",
+        "Title": "Office of the President - Boise State University",
+        "Raw Out": "According to the provided data, the President of Boise State University is Dr. Marlene Tromp. She has been serving as the 7th president since July 1, 2019.\n\nSome notable achievements and initiatives under her leadership include:\n\n* Breaking student graduation records, research funding records, and philanthropy records\n* Increasing access and enrollment for Idaho students and providing an affordable education to students from elsewhere\n* Creating pathbreaking partnerships with industry and nonprofits to advance students and the state\n* Overseeing the launch of the Microelectronics Education and Research (MER) Institute to prepare students for work in the semiconductor industry\n* Forming strategic partnerships with industry, higher education, and government through the Institute for Pervasive Cybersecurity\n* Supporting growth in health sciences, graduating more students in education, and increasing interdisciplinary thought-leadership through cutting-edge programs like the School of the Environment and School of Computing\n\nDr. Tromp is also committed to supporting students and faculty, as well as serving and advancing the state of Idaho. She has a passion for student access and has developed an endowment for the Presidential True Blue Scholarship to reduce financial barriers for students.\n\nAdditionally, she has launched initiatives such as the Community Impact Program, which brings education to rural communities, and the Hometown Challenge, which helps students return home to give back in their communities.",
+        "Refined Out": "RES - The President of Boise State University is Dr. Marlene Tromp!",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Bowling Green State University",
+        "Position": "President",
+        "Name": "$526,600",
+        "Method": "Init"
+    },
+    {
+        "College": "Brigham Young University",
+        "Position": "President",
+        "Name": "C. Shane Reese",
+        "Method": "Init"
+    },
+    {
+        "College": "California State University, East Bay",
+        "Position": "President",
+        "Name": " Cathy Sandeen",
+        "Title": "Office of the President - Cal State East Bay",
+        "Raw Out": "The President of California State University, East Bay is Cathy Sandeen, Ph.D., MBA. She has been committed to the university's momentum in students' social mobility, social justice, and sustainability. As a two-time alumna of the California State University system, she emphasizes access and opportunity.\n\nPrior to her current role, Dr. Sandeen served as chancellor at the University of Alaska Anchorage from 2018-2020 and at the University of Wisconsin Colleges and UW-Extension for four years. She has also held leadership positions in the University of California system, including at UCLA, Santa Cruz, and San Francisco.\n\nDr. Sandeen earned a Ph.D. in communication from the University of Utah and a Master of Business Administration degree from the UCLA Anderson School of Management. She is an American Council on Education Fellow and has published and presented widely on educational innovation and nontraditional students.\n\nSome notable initiatives and messages attributed to President Sandeen include:\n\n* Cal State East Bay's return to scheduled course delivery after COVID-19 restrictions\n* The university's recognition as a #CaliforniansForAll College Corps\n* Updates on vaccination requirements for students, faculty, and staff\n* Launching the Future Directions Strategic Planning Initiative\n* Support for DACA students\n* Initiatives promoting diversity, equity, and inclusion on campus\n\nThe President's office is located at 25800 Carlos Bee Boulevard, Hayward, CA 94542. You can contact her or other administrative team members through their email addresses listed below:\n\n1. Dr. Cathy Sandeen - [cathy.sandeen@csueastbay.edu](mailto:cathy.sandeen@csueastbay.edu)\n2. Dr. Kim Greer (Interim Provost) - [kim.greer@csueastbay.edu](mailto:kim.greer@csueastbay.edu)\n3. Mr. Derek Aitken (Chief of Staff) - [derek.aitken@csueastbay.edu](mailto:derek.aitken@csueastbay.edu)\n4. Ms. Myeshia Armstrong (Vice President, Administration and Finance and CFO) - [myeshia.armstrong@csueastbay.edu](mailto:myeshia.armstrong@csueastbay.edu)\n5. Ms. Evelyn Buchanan (Vice President, University Advancement) - [evelyn.buchanan@csueastbay.edu](mailto:evelyn.buchanan@csueastbay.edu)\n6. Dr. Suzanne Espinoza (Vice President, Student Affairs) - [suzanne.espinoza@csueastbay.edu](mailto:suzanne.espinoza@csueastbay.edu)\n7. Dr. Kathleen Wong (University Diversity Officer) - [kathleen.wong@csueastbay.edu](mailto:kathleen.wong@csueastbay.edu)\n8. Ms. Ashley Smith (Executive Assistant to the President) - [ashley.smith@csueastbay.edu](mailto:ashley.smith@csueastbay.edu)\n\nYou can also access additional resources, such as Sexual Assault/Title IX information, request information about the university, or view current students' faculty and staff profiles.",
+        "Refined Out": "RES Cathy Sandeen",
+        "Method": "Full ask"
+    },
+    {
+        "College": "California State University, Fresno",
+        "Position": "President",
+        "Name": "president Saul Jimenez Sandoval",
+        "Method": "Init"
+    },
+    {
+        "College": "California State University, Fullerton",
+        "Position": "President",
+        "Name": "President Ronald S. Rochon",
+        "Method": "Init"
+    },
+    {
+        "College": "California State University, Long Beach",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "California State University, San Bernardino",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "Catholic University of America",
+        "Position": "President",
+        "Name": "Peter Kilpatrick",
+        "Method": "Init"
+    },
+    {
+        "College": "Central Michigan University",
+        "Position": "President",
+        "Name": "Neil MacKinnon",
+        "Method": "Init"
+    },
+    {
+        "College": "Chapman University",
+        "Position": "President",
+        "Name": "Daniele C. Struppa",
+        "Method": "Init"
+    },
+    {
+        "College": "Claremont Graduate University",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "Clark Atlanta University",
+        "Position": "President",
+        "Name": "George French, Jr.",
+        "Method": "Init"
+    },
+    {
+        "College": "Clark University",
+        "Position": "President",
+        "Name": "David Fithian",
+        "Method": "Init"
+    },
+    {
+        "College": "Clarkson University",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "Cleveland State University",
+        "Position": "President",
+        "Name": "Dr. Laura Bloomberg",
+        "Method": "Init"
+    },
+    {
+        "College": "College of William & Mary",
+        "Position": "President",
+        "Name": "President Katherine A. Rowe",
+        "Method": "Init"
+    },
+    {
+        "College": "Creighton University",
+        "Position": "President",
+        "Name": " The Rev. Daniel S. Hendrickson, SJ, PhD",
+        "Title": "Creighton University Leadership",
+        "Raw Out": "According to the provided data, the President of Creighton University is:\n\nThe Rev. Daniel S. Hendrickson, SJ, PhD, who has been serving as the 25th president since 2015. He brings a global perspective informed by his work across the globe: Fr. Hendrickson has taught philosophy in both Tanzania and the Dominican Republic and has visited 30 countries.\n\nYou can learn more about Fr. Hendrickson on Creighton's website, which also outlines the university's values, including Commitment to Mission, Cura (or care), Collaboration, and Creativity.",
+        "Refined Out": "RES The Rev. Daniel S. Hendrickson, SJ, PhD",
+        "Method": "Full ask"
+    },
+    {
+        "College": "CUNY City College",
+        "Position": "President",
+        "Name": "Vincent Boudreau",
+        "Method": "Init"
+    },
+    {
+        "College": "DePaul University",
+        "Position": "President",
+        "Name": "Robert L. Manuel",
+        "Method": "Init"
+    },
+    {
+        "College": "Duquesne University",
+        "Position": "President",
+        "Name": "Ken Gormley",
+        "Method": "Init"
+    },
+    {
+        "College": "East Carolina University",
+        "Position": "President",
+        "Name": "Thomas Jordan Jarvis",
+        "Method": "Init"
+    },
+    {
+        "College": "East Tennessee State University",
+        "Position": "President",
+        "Name": "Brian Noland",
+        "Method": "Init"
+    },
+    {
+        "College": "Eastern Michigan University",
+        "Position": "President",
+        "Name": "Katie Condon-Martin",
+        "Method": "Init"
+    },
+    {
+        "College": "Florida Agricultural and Mechanical University",
+        "Position": "President",
+        "Name": "$400,000",
+        "Method": "Init"
+    },
+    {
+        "College": "Florida Atlantic University",
+        "Position": "President",
+        "Name": "President Stacy Volnick",
+        "Method": "Init"
+    },
+    {
+        "College": "Florida Institute of Technology",
+        "Position": "President",
+        "Name": "Anthony Catanese",
+        "Method": "Init"
+    },
+    {
+        "College": "Fordham University",
+        "Position": "President",
+        "Name": " Tania Tetlow!",
+        "Title": "Tania Tetlow - Wikipedia",
+        "Raw Out": "According to the provided data, the President of Fordham University is Tania Tetlow. She has been serving in this role since 2022 and will continue until 2024, as stated on her Wikipedia page.\n\nTetlow was born on an unknown date but is a lawyer, alumnus of Tulane University, Harvard Law School, and faculty member at Tulane University Law School.",
+        "Refined Out": "After reviewing the provided data, I found that the President of Fordham University is... RES Tania Tetlow!",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Georgia Southern University",
+        "Position": "President",
+        "Name": "$471,449",
+        "Method": "Init"
+    },
+    {
+        "College": "Howard University",
+        "Position": "President",
+        "Name": "Ben Vinson III",
+        "Method": "Init"
+    },
+    {
+        "College": "Idaho State University",
+        "Position": "President",
+        "Name": "Dr. Robert W. Wagner",
+        "Method": "Init"
+    },
+    {
+        "College": "Illinois Institute of Technology",
+        "Position": "President",
+        "Name": "Raj Echambadi",
+        "Method": "Init"
+    },
+    {
+        "College": "Illinois State University",
+        "Position": "President",
+        "Name": "President Aondover Tarhule",
+        "Method": "Init"
+    },
+    {
+        "College": "Indiana University Indianapolis",
+        "Position": "President",
+        "Name": "President Pamela Whitten",
+        "Method": "Init"
+    },
+    {
+        "College": "Indiana University of Pennsylvania",
+        "Position": "President",
+        "Name": "President Michael Driscoll",
+        "Method": "Init"
+    },
+    {
+        "College": "Jackson State University",
+        "Position": "President",
+        "Name": "President Marcus L. Thompson",
+        "Method": "Init"
+    },
+    {
+        "College": "James Madison University",
+        "Position": "President",
+        "Name": "Father of the Constitution",
+        "Method": "Init"
+    },
+    {
+        "College": "Kennesaw State University",
+        "Position": "President",
+        "Name": "President Kathy S. Schwaig",
+        "Method": "Init"
+    },
+    {
+        "College": "Lehigh University",
+        "Position": "President",
+        "Name": ": Joseph J. Helble Jr.",
+        "Title": "Joseph J. Helble - Wikipedia",
+        "Raw Out": "The President of Lehigh University is Joseph J. Helble Jr. He was named the 15th President of Lehigh University in [insert year].",
+        "Refined Out": "I'm happy to help! Since I have the information provided, I can give you an accurate answer. RES: Joseph J. Helble Jr.",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Loma Linda University",
+        "Position": "President",
+        "Name": "Richard H. Hart, MD",
+        "Method": "Init"
+    },
+    {
+        "College": "Long Island University",
+        "Position": "President",
+        "Name": "Kimberly R. Cline",
+        "Method": "Init"
+    },
+    {
+        "College": "Louisiana Tech University",
+        "Position": "President",
+        "Name": "Colonel Arthur T. Prescott",
+        "Method": "Init"
+    },
+    {
+        "College": "Loyola Marymount University",
+        "Position": "President",
+        "Name": "Timothy Law Snyder",
+        "Method": "Init"
+    },
+    {
+        "College": "Loyola University Chicago",
+        "Position": "President",
+        "Name": "Mark Reed",
+        "Method": "Init"
+    },
+    {
+        "College": "Marquette University",
+        "Position": "President",
+        "Name": "Michael Lovell",
+        "Method": "Init"
+    },
+    {
+        "College": "Marshall University",
+        "Position": "President",
+        "Name": "Brad D. Smith",
+        "Method": "Init"
+    },
+    {
+        "College": "Mercer University",
+        "Position": "President",
+        "Name": " William D. Underwood, J.D.",
+        "Title": "About the President - Mercer University",
+        "Raw Out": "The President of Mercer University is William D. Underwood, J.D. He has been the 18th president of Mercer University since 2006. During his tenure, enrollment has increased by over 30% to more than 9,100 students. Mercer has also launched new programs and campuses, including second and third medical school campuses in Savannah and Columbus, and initiated doctoral programs in various fields.\n\nUnder President Underwood's leadership, Mercer has received recognition for its research efforts, with the university being reclassified as a research university with high levels of research activity (R2). The university has also been admitted to membership in the Georgia Research Alliance and has been named among three universities nationally with the highest matriculation to graduation retention rates.\n\nAdditionally, President Underwood has overseen significant investments in facilities, including an undergraduate science center, medical school campuses, a Pharmacy and Health Sciences Center, football and baseball stadiums, and housing. He has also made efforts to revitalize Downtown Macon, repurposing several abandoned historic facilities for university use and restoring the iconic Capricorn Sound Studios as Mercer Music at Capricorn.\n\nPresident Underwood has received numerous awards and honors for his leadership and community impact, including the Sam Hart, Sr. Community Impact Award, the Greater Macon Chamber of Commerce's Citizen of the Year Award, and Georgia Trend's 100 Most Influential Georgians. He is also a Master Teacher at Baylor University and was designated as Chair of the Southern Conference President's Council.",
+        "Refined Out": "RES William D. Underwood, J.D.",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Miami University",
+        "Position": "President",
+        "Name": "Gregory Crawford",
+        "Method": "Init"
+    },
+    {
+        "College": "Michigan Technological University",
+        "Position": "President",
+        "Name": "Richard J. Koubek",
+        "Method": "Init"
+    },
+    {
+        "College": "Middle Tennessee State University",
+        "Position": "President",
+        "Name": "Sidney A. McPhee",
+        "Method": "Init"
+    },
+    {
+        "College": "Missouri University of Science and Technology",
+        "Position": "President",
+        "Name": " Dr. Mohammad Dehghanisadeh",
+        "Title": "Missouri University of Science and Technology",
+        "Raw Out": "According to the provided data, there is no information about the President of Missouri University of Science and Technology. The text appears to be a list of institutions, conferences, and categories related to education in the United States, including Missouri University of Science and Technology itself. It does not mention any individual serving as president of the university.\n\nHowever, according to external sources, the current president of Missouri University of Science and Technology is Dr. Mohammad Dehghanisadeh. He has been serving in this role since 2020.",
+        "Refined Out": "RES Dr. Mohammad Dehghanisadeh",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Montclair State University",
+        "Position": "President",
+        "Name": " - Jonathan Koppell.",
+        "Title": "Jonathan Koppell - Wikipedia",
+        "Raw Out": "According to the provided data from Wikipedia, Jonathan Koppell is the current President of Montclair State University in Montclair, New Jersey. He assumed office on August 2, 2021, succeeding Susan A. Cole.\n\nBefore becoming the president, Koppell served as the Vice-Provost for Public Service and Social Impact at Arizona State University from 2020 to 2021. He was previously the Dean of the Watts College of Public Service & Community Solutions at Arizona State University and Provost for Public Service and Social Impact at the same institution.\n\nKoppell holds a bachelor's degree from Harvard University, as well as both a doctorate and master's degree from the University of California at Berkeley. His career in public service began as a Research Assistant with the Office of Federal Housing Enterprise Oversight in Washington, D.C., followed by various roles and positions in academia and administration.\n\nAs President of Montclair State University, Koppell has been involved in several initiatives, including launching the Public Service Academy at ASU, which aims to create working relationships between civilians and military personnel and collaborations among the public, private, and non-profit sectors.",
+        "Refined Out": "RES - Jonathan Koppell.",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Morgan State University",
+        "Position": "President",
+        "Name": "David Wilson",
+        "Method": "Init"
+    },
+    {
+        "College": "New Mexico State University",
+        "Position": "President",
+        "Name": "Dr. Valerio Ferme",
+        "Method": "Init"
+    },
+    {
+        "College": "North Carolina A&T State University",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "Northern Arizona University",
+        "Position": "President",
+        "Name": "about $594,000",
+        "Method": "Init"
+    },
+    {
+        "College": "Northern Illinois University",
+        "Position": "President",
+        "Name": " - Dr. Lisa Freeman",
+        "Title": "Northern Illinois University President Lisa Freeman - Facebook",
+        "Raw Out": "Based on the provided data, I can tell you that the President of Northern Illinois University (NIU) is Dr. Lisa Freeman. She has focused her academic career on bringing people and resources together to solve complex problems.",
+        "Refined Out": "RES - Dr. Lisa Freeman",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Nova Southeastern University",
+        "Position": "President",
+        "Name": "George L. Hanbury II",
+        "Method": "Init"
+    },
+    {
+        "College": "Oakland University",
+        "Position": "President",
+        "Name": "$517,673 per year",
+        "Method": "Init"
+    },
+    {
+        "College": "Portland State University",
+        "Position": "President",
+        "Name": "Ann Cudd",
+        "Method": "Init"
+    },
+    {
+        "College": "Prairie View A&M University",
+        "Position": "President",
+        "Name": ": Dr. Ruth Simmons is the current President of Prairie View A&M University.",
+        "Title": "Prairie View A&M University inaugurates President Tomikia ...",
+        "Raw Out": "I'm happy to help! It seems like there was an issue accessing the page about the President of Prairie View A&M University. The error message is suggesting that you may be experiencing difficulties due to being perceived as a bot, and it's asking you to confirm you're human.\n\nIf this is indeed an issue with a bot detection system, I'm here to help you bypass it! Can you please give me some more information about what you were trying to access or what you're looking for regarding the President of Prairie View A&M University? I'll do my best to provide you with the relevant details.",
+        "Refined Out": "RES: Dr. Ruth Simmons is the current President of Prairie View A&M University.",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Rochester Institute of Technology",
+        "Position": "President",
+        "Name": "David C. Munson",
+        "Method": "Init"
+    },
+    {
+        "College": "Rowan University",
+        "Position": "President",
+        "Name": "Ali A. Houshmand",
+        "Method": "Init"
+    },
+    {
+        "College": "Rutgers University\u2013Camden",
+        "Position": "President",
+        "Name": "John Griffin",
+        "Method": "Init"
+    },
+    {
+        "College": "Rutgers University\u2013Newark",
+        "Position": "President",
+        "Name": "Jonathan Holloway",
+        "Method": "Init"
+    },
+    {
+        "College": "Saint Louis University",
+        "Position": "President",
+        "Name": "Fred Pestello",
+        "Method": "Init"
+    },
+    {
+        "College": "Sam Houston State University",
+        "Position": "President",
+        "Name": "Alisa White",
+        "Method": "Init"
+    },
+    {
+        "College": "San Diego State University",
+        "Position": "President",
+        "Name": "Adela de la Torre",
+        "Method": "Init"
+    },
+    {
+        "College": "San Francisco State University",
+        "Position": "President",
+        "Name": " Lynn Mahoney, Ph.D.",
+        "Title": "Office of the President | San Francisco State University",
+        "Raw Out": "According to the provided data, the President of San Francisco State University is:\n\n* Lynn Mahoney, Ph.D.\n* Term began in July 2019\n* Previously served as provost and vice president for Academic Affairs at California State University, Los Angeles\n\nYou can learn more about President Mahoney by clicking on the \"Read more about President Mahoney\" link.\n\nContact information for President Mahoney includes:\n\n* Email: president@sfsu.edu\n* Telephone: (415) 338-1381\n* Location: 1600 Holloway Avenue, San Francisco, CA 94132\n* Office Hours: 8 a.m. - 5 p.m., Monday - Friday",
+        "Refined Out": "RES Lynn Mahoney, Ph.D.",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Seton Hall University",
+        "Position": "President",
+        "Name": "Monsignor Joseph R. Reilly",
+        "Method": "Init"
+    },
+    {
+        "College": "South Dakota State University",
+        "Position": "President",
+        "Name": "Barry H. Dunn",
+        "Method": "Init"
+    },
+    {
+        "College": "Southern Illinois University Carbondale",
+        "Position": "President",
+        "Name": "Loren Lane",
+        "Method": "Init"
+    },
+    {
+        "College": "Southern Methodist University",
+        "Position": "President",
+        "Name": "R. Gerald Turner",
+        "Method": "Init"
+    },
+    {
+        "College": "Southern University",
+        "Position": "President",
+        "Name": "Dennis J. Shields",
+        "Method": "Init"
+    },
+    {
+        "College": "Stevens Institute of Technology",
+        "Position": "President",
+        "Name": "Nariman Farvardin",
+        "Method": "Init"
+    },
+    {
+        "College": "SUNY College of Environmental Science and Forestry",
+        "Position": "President",
+        "Name": "Joanie Mahoney",
+        "Method": "Init"
+    },
+    {
+        "College": "Tarleton State University",
+        "Position": "President",
+        "Name": "",
+        "Title": "Office of The President - Tarleton State University",
+        "Raw Out": "The President of Tarleton State University is Dr. F. Homer Hurley.",
+        "Refined Out": "RES\nDr. F. Homer Hurley",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Teachers College, Columbia University",
+        "Position": "President",
+        "Name": "Thomas R. Bailey",
+        "Method": "Init"
+    },
+    {
+        "College": "Tennessee State University",
+        "Position": "President",
+        "Name": "Glenda Glover",
+        "Method": "Init"
+    },
+    {
+        "College": "Tennessee Technological University",
+        "Position": "President",
+        "Name": "",
+        "Title": "Office of the President - Tennessee Tech University",
+        "Raw Out": "According to the text, the President of Tennessee Technological University is not explicitly mentioned. However, there are three high-ranking administrators introduced:\n\n1. Mark Stinson: Vice President (no specific title mentioned) - responsible for managing funds, purchases, financial planning, and physical plant management.\n2. Mark Wilson: Director of Athletics - oversees the NCAA Division I Intercollegiate Athletics program, including 14 varsity athletic teams and various administrative/support areas.\n3. Lee Wray: Chief of Staff and Secretary to the Board of Trustees - provides executive-level support to the president, serves as point person for the Office of the President, and liaises with the Board of Trustees.\n\nNote that there is no specific mention of a President in the text, but these three individuals are mentioned as high-ranking administrators or officials.",
+        "Refined Out": "idk RES",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Texas A&M University\u2013Corpus Christi",
+        "Position": "President",
+        "Name": "Kelly M. Miller",
+        "Method": "Init"
+    },
+    {
+        "College": "Texas A&M University\u2013Kingsville",
+        "Position": "President",
+        "Name": "Robert H. Vela Jr.",
+        "Method": "Init"
+    },
+    {
+        "College": "Texas Christian University",
+        "Position": "President",
+        "Name": "Daniel W. Pullin",
+        "Method": "Init"
+    },
+    {
+        "College": "Texas Southern University",
+        "Position": "President",
+        "Name": "Dennis J. Shields",
+        "Method": "Init"
+    },
+    {
+        "College": "Texas State University",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "The New School",
+        "Position": "President",
+        "Name": "Joel Towers",
+        "Method": "Init"
+    },
+    {
+        "College": "Thomas Jefferson University",
+        "Position": "President",
+        "Name": "Dr Susan Aldridge -",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Akron",
+        "Position": "President",
+        "Name": "Robert J. Nemer",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Alaska Fairbanks",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Arkansas at Little Rock",
+        "Position": "President",
+        "Name": "Christina Drale",
+        "Method": "Init"
+    },
+    {
+        "College": "University of California, Merced",
+        "Position": "President",
+        "Name": "Juan S\u00e1nchez Mu\u00f1oz",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Colorado Colorado Springs",
+        "Position": "President",
+        "Name": "President Todd Saliman",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Dayton",
+        "Position": "President",
+        "Name": "Eric F. Spina",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Idaho",
+        "Position": "President",
+        "Name": "C. Scott Green",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Maryland Eastern Shore",
+        "Position": "President",
+        "Name": "Heidi M. Anderson",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Massachusetts Boston",
+        "Position": "President",
+        "Name": "Marty Meehan",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Massachusetts Dartmouth",
+        "Position": "President",
+        "Name": "Marty Meehan",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Massachusetts Lowell",
+        "Position": "President",
+        "Name": "President Marty Meehan",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Missouri\u2013Kansas City",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Missouri\u2013St. Louis",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Nebraska Omaha",
+        "Position": "President",
+        "Name": "Jeffrey P. Gold, M.D.",
+        "Method": "Init"
+    },
+    {
+        "College": "University of New England",
+        "Position": "President",
+        "Name": "James D. Herbert",
+        "Method": "Init"
+    },
+    {
+        "College": "University of New Orleans",
+        "Position": "President",
+        "Name": "President Kathy Johnson",
+        "Method": "Init"
+    },
+    {
+        "College": "University of North Carolina at Charlotte",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of North Carolina at Greensboro",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of North Carolina Wilmington",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of North Dakota",
+        "Position": "President",
+        "Name": "Andrew Armacost",
+        "Method": "Init"
+    },
+    {
+        "College": "University of North Florida",
+        "Position": "President",
+        "Name": "Moez Limayem",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Puerto Rico, R\u00edo Piedras Campus",
+        "Position": "President",
+        "Name": "3.6",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Rhode Island",
+        "Position": "President",
+        "Name": "President Marc Parlange",
+        "Method": "Init"
+    },
+    {
+        "College": "University of San Diego",
+        "Position": "President",
+        "Name": "James T. Harris III",
+        "Method": "Init"
+    },
+    {
+        "College": "University of South Alabama",
+        "Position": "President",
+        "Name": "Josiah Bonner",
+        "Method": "Init"
+    },
+    {
+        "College": "University of South Dakota",
+        "Position": "President",
+        "Name": "President Sheila K.",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas at Tyler",
+        "Position": "President",
+        "Name": " Julie V. Philley, MD",
+        "Title": "Office of the President | The University of Texas at Tyler",
+        "Raw Out": "The President of the University of Texas at Tyler is Julie V. Philley, MD. She is the sixth president of the university and the first woman to lead the institution. Dr. Philley earned a bachelor's degree from Texas Woman's University and her MD at UT Health Houston's McGovern Medical School. She completed an internal medicine residency program at Johns Hopkins University/Sinai Hospital and a fellowship at the University of Texas Southwestern Medical Center Dallas.\n\nHere is some additional information about President Philley:\n\n* As president, Dr. Philley has emphasized the importance of servant leadership, academic excellence, accountability, and equal opportunity.\n* She has also highlighted the university's mission to support each student's educational endeavors and create a path toward social mobility that economically stimulates the region.\n* Under her leadership, the university has focused on expanding its research activity, developing partnerships with industries and area organizations, and growing its influence in the community.\n\nYou can contact President Philley through the Office of the President at (903) 566-7325 or by email at president@uttyler.edu. The office is located at 3900 University Blvd., Tyler, TX 75799, and is open Monday-Friday from 8 a.m. to 5 p.m.\n\nI hope this information helps! Let me know if you have any further questions.",
+        "Refined Out": "RES Julie V. Philley, MD",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of Texas Rio Grande Valley",
+        "Position": "President",
+        "Name": "Guy Bailey",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Toledo",
+        "Position": "President",
+        "Name": "",
+        "Title": "University of Toledo names interim president",
+        "Raw Out": "I think there may be some confusion! The data you provided doesn't seem to contain any information about the President of the University of Toledo. Instead, it appears to be a collection of articles and advertisements from WTOL, a news organization.\n\nIf you're looking for information on the current or past presidents of the University of Toledo, I'd be happy to help you find that information!",
+        "Refined Out": "idk RES",
+        "Method": "Full ask"
+    },
+    {
+        "College": "University of Tulsa",
+        "Position": "President",
+        "Name": "President Brad Carson",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Vermont",
+        "Position": "President",
+        "Name": "Suresh Garimella",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Wyoming",
+        "Position": "President",
+        "Name": "Ed Seidel",
+        "Method": "Init"
+    },
+    {
+        "College": "Villanova University",
+        "Position": "President",
+        "Name": " The Rev. Peter M. Donohue, OSA, PhD",
+        "Title": "Leadership | Villanova University",
+        "Raw Out": "According to the provided data, the President of Villanova University is:\n\n* The Rev. Peter M. Donohue, OSA, PhD\n\nHe has been serving as the 32nd president since June 1, 2006. Under his leadership, the university has undergone significant transformation, including launching a comprehensive fundraising campaign, initiating a physical campus renovation, and expanding student opportunities.\n\nAdditionally, there are several other senior leaders mentioned in the data:\n\n* Patrick G. Maggitti, PhD: University Provost\n* Roger Demareski: Executive Vice President\n* Kathleen J. Byrnes, JD: Vice President for Student Life\n* Rev. Kevin DePrinzio, OSA, PhD: Vice President for Mission & Ministry\n* Ann E. Diebold: Vice President for University Communication & Marketing\n* Ray Duffy, MS, SPHR, SHRM-SCP, CBP: Vice President for Human Resources & Affirmative Action Officer\n* Neil J. Horgan: Vice President for Finance & Chief Financial Officer\n* Mark W. Jackson: Vice President & Director of Athletics\n* Robert H. Morro: Vice President for Facilities Management\n* Kevin W. Noller: Vice President for University Advancement\n* Tej Patel: Vice President for Information Technology and Chief Information Officer\n* Craig M. Wheeland, PhD: Senior Vice Provost for Academics\n* E. Michael Zubey, Jr., JD: Vice President & General Counsel",
+        "Refined Out": "RES The Rev. Peter M. Donohue, OSA, PhD",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Wake Forest University",
+        "Position": "President",
+        "Name": "Susan Rae Wente",
+        "Method": "Init"
+    },
+    {
+        "College": "West Chester University of Pennsylvania",
+        "Position": "President",
+        "Name": "Greg Weisenstein",
+        "Method": "Init"
+    },
+    {
+        "College": "Western Michigan University",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "Wichita State University",
+        "Position": "President",
+        "Name": "Richard Muma",
+        "Method": "Init"
+    },
+    {
+        "College": "Worcester Polytechnic Institute",
+        "Position": "President",
+        "Name": "",
+        "Title": "Office of the President | Worcester Polytechnic Institute",
+        "Raw Out": "According to the provided data, there is no mention of the President of Worcester Polytechnic Institute (WPI) beyond the inaugural event of President Grace J. Wang, PhD in March 2024.",
+        "Refined Out": "RES\n\nIdk",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Wright State University",
+        "Position": "President",
+        "Name": "$450,000",
+        "Method": "Init"
+    },
+    {
+        "College": "Albert Einstein College of Medicine",
+        "Position": "President",
+        "Name": "Yaron Tomer",
+        "Method": "Init"
+    },
+    {
+        "College": "Baylor College of Medicine",
+        "Position": "President",
+        "Name": " idk",
+        "Title": "Leadership Bios - Baylor College of Medicine",
+        "Raw Out": "Based on the provided data, there is no mention of a single \"President\" of Baylor College of Medicine. However, I can identify the following individuals who hold dean positions:\n\n1. Dr. Jennifer G. Christner - Senior Dean of the School of Medicine and School of Health Professions.\n2. Peter J. Hotez, M.D., Ph.D. - Founding Dean of the National School of Tropical Medicine at Baylor College of Medicine.\n3. Carolyn Smith, Ph.D. - Dean of the Graduate School of Biomedical Sciences, Interim Senior Vice President and Dean of Research.\n4. James McDeavitt, M.D. - Executive Vice President and Dean of Clinical Affairs.\n\nThese individuals may not be the president of the college, but they hold significant leadership positions within Baylor College of Medicine.",
+        "Refined Out": "RES idk",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Icahn School of Medicine at Mount Sinai",
+        "Position": "President",
+        "Name": "Barry L. Skolnick",
+        "Method": "Init"
+    },
+    {
+        "College": "Mayo Clinic College of Medicine and Science",
+        "Position": "President",
+        "Name": " idk",
+        "Title": "Faculty - M.D. Program - Mayo Clinic Alix School of Medicine",
+        "Raw Out": "The President of Mayo Clinic College of Medicine and Science is not explicitly listed in the provided data. However, there are several associate deans and assistant deans listed under various categories such as Admissions, Diversity, Equity & Inclusion, Faculty Affairs, and Student Affairs.\n\nSome notable individuals include:\n\n* Megha Tollefson, M.D., Senior Associate Dean for Admissions\n* Mira Keddis, M.D., Associate Dean for Faculty Affairs\n* Chris Fox, M.D., Associate Dean for Student Affairs\n* Rochelle Torgerson, M.D., Ph.D., Associate Dean for Student Affairs\n\nIt's possible that the President of Mayo Clinic College of Medicine and Science is not listed due to the level of detail provided or because they may be a senior administrator who does not have a specific role in one of these areas.",
+        "Refined Out": "I'd love to help! However, based on the data you provided, I couldn't find any information about the President of Mayo Clinic College of Medicine and Science. RES idk",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Medical College of Wisconsin",
+        "Position": "President",
+        "Name": "John R. Raymond, Sr.",
+        "Method": "Init"
+    },
+    {
+        "College": "Medical University of South Carolina",
+        "Position": "President",
+        "Name": "David J. Cole",
+        "Method": "Init"
+    },
+    {
+        "College": "Oregon Health & Science University",
+        "Position": "President",
+        "Name": "$1.64 million a year",
+        "Method": "Init"
+    },
+    {
+        "College": "Rockefeller University",
+        "Position": "President",
+        "Name": " - I don't know",
+        "Title": "Richard P. Lifton - Wikipedia",
+        "Raw Out": "A treasure trove of data!\n\nAccording to the text, the Presidents of Rockefeller University are:\n\n1. Richard P. Guido Tonelli, Joseph Incandela (CMS) and Lyn Evans (LHC) (2013)\n2. Alexander Polyakov (2013)\n3. Michael Green and John Henry Schwarz (2014)\n4. Saul Perlmutter and members of the Supernova Cosmology Project; Brian Schmidt, Adam Riess and members of the High-Z Supernova Team (2015)\n5. Special: Ronald Drever, Kip Thorne, Rainer Weiss and contributors to LIGO project (2016)\n6. Yifang Wang, Kam-Biu Luk and the Daya Bay team, Atsuto Suzuki and the KamLAND team, K\u014dichir\u014d Nishikawa and the K2K / T2K team, Arthur B. McDonald and the Sudbury Neutrino Observatory team, Takaaki Kajita and Y\u014dichir\u014d Suzuki and the Super-Kamiokande team (2016)\n7. Joseph Polchinski, Andrew Strominger, Cumrun Vafa (2017)\n8. Charles L. Bennett, Gary Hinshaw, Norman Jarosik, Lyman Page Jr., David Spergel (2018)\n9. Special: Jocelyn Bell Burnell (2018)\n10. Charles Kane and Eugene Mele (2019)\n11. Special: Sergio Ferrara, Daniel Z. Freedman, Peter van Nieuwenhuizen (2019)\n12. The Event Horizon Telescope Collaboration (2020)\n13. Eric Adelberger, Jens H. Gundlach and Blayne Heckel (2021)\n14. Special: Steven Weinberg (2021)\n15. Hidetoshi Katori and Jun Ye (2022)\n16. Charles H. Bennett, Gilles Brassard, David Deutsch, Peter W. Shor (2023)\n17. John Cardy and Alexander Zamolodchikov (2024)\n\nNote that some of these presidents are listed as \"Special\" or have multiple individuals listed together, indicating that they may be sharing the presidency or being recognized for their contributions to a particular field or project.",
+        "Refined Out": "RES - I don't know",
+        "Method": "Full ask"
+    },
+    {
+        "College": "Texas Tech University Health Sciences Center",
+        "Position": "President",
+        "Name": "Lori Rice-Spearman",
+        "Method": "Init"
+    },
+    {
+        "College": "Uniformed Services University of the Health Sciences",
+        "Position": "President",
+        "Name": "jonathan woodson",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Arkansas for Medical Sciences",
+        "Position": "President",
+        "Name": "$1,250,000.04",
+        "Method": "Init"
+    },
+    {
+        "College": "University of California, San Francisco",
+        "Position": "President",
+        "Name": "Paul J. Fitzgerald, S.J.",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Maryland, Baltimore",
+        "Position": "President",
+        "Name": "ERROR",
+        "Method": "None"
+    },
+    {
+        "College": "University of Massachusetts Chan Medical School",
+        "Position": "President",
+        "Name": "Eric W. Dickson MD",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Nebraska Medical Center",
+        "Position": "President",
+        "Name": "James Linder",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Oklahoma Health Sciences Center",
+        "Position": "President",
+        "Name": "Richard P. Lofgren, M.D.",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Tennessee Health Science Center",
+        "Position": "President",
+        "Name": "approximately $1 billion annually",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas Health Science Center at Houston",
+        "Position": "President",
+        "Name": "Zach Dietze",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas Health Science Center at San Antonio",
+        "Position": "President",
+        "Name": "Jeff Flowers -",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas Medical Branch",
+        "Position": "President",
+        "Name": "President Jochen Reiser",
+        "Method": "Init"
+    },
+    {
+        "College": "University of Texas Southwestern Medical Center",
+        "Position": "President",
+        "Name": "Daniel Podolsky",
+        "Method": "Init"
+    },
+    {
+        "College": "Virginia Health Sciences",
+        "Position": "President",
+        "Name": "K. Craig Kent",
+        "Method": "Init"
+    },
+    {
+        "College": "Weill Cornell Medicine",
+        "Position": "President",
+        "Name": "Robert Min, M.D.",
+        "Method": "Init"
+    }
+]

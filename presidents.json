@@ -1,0 +1,1512 @@
+[
+    {
+        "College": "Arizona State University",
+        "Position": "President",
+        "Name": "Michael M. Crow"
+    },
+    {
+        "College": "Auburn University",
+        "Position": "President",
+        "Name": "Christopher B. Roberts"
+    },
+    {
+        "College": "Baylor University",
+        "Position": "President",
+        "Name": "Linda Livingstone"
+    },
+    {
+        "College": "Binghamton University",
+        "Position": "President",
+        "Name": "approximately 30%"
+    },
+    {
+        "College": "Boston College",
+        "Position": "President",
+        "Name": "William P. Leahy"
+    },
+    {
+        "College": "Boston University",
+        "Position": "President",
+        "Name": " the President of Boston University is Dr. Robert A. Gross."
+    },
+    {
+        "College": "Brandeis University",
+        "Position": "President",
+        "Name": "Ronald D. Liebowitz"
+    },
+    {
+        "College": "Brown University",
+        "Position": "President",
+        "Name": "President Christina H. Paxson"
+    },
+    {
+        "College": "California Institute of Technology",
+        "Position": "President",
+        "Name": " - Thomas F. Rosenbaum"
+    },
+    {
+        "College": "Carnegie Mellon University",
+        "Position": "President",
+        "Name": "Farnam Jahanian"
+    },
+    {
+        "College": "Case Western Reserve University",
+        "Position": "President",
+        "Name": "Eric Kaler"
+    },
+    {
+        "College": "Clemson University",
+        "Position": "President",
+        "Name": "James P. Clements"
+    },
+    {
+        "College": "Colorado School of Mines",
+        "Position": "President",
+        "Name": "Paul C. Johnson"
+    },
+    {
+        "College": "Colorado State University",
+        "Position": "President",
+        "Name": "Amy Parsons"
+    },
+    {
+        "College": "Columbia University",
+        "Position": "President",
+        "Name": "Katrina Armstrong"
+    },
+    {
+        "College": "Cornell University",
+        "Position": "President",
+        "Name": "Michael Kotlikoff"
+    },
+    {
+        "College": "Dartmouth College",
+        "Position": "President",
+        "Name": "Sian Beilock"
+    },
+    {
+        "College": "Drexel University",
+        "Position": "President",
+        "Name": "John Anderson Fry"
+    },
+    {
+        "College": "Duke University",
+        "Position": "President",
+        "Name": "Vincent Price"
+    },
+    {
+        "College": "Emory University",
+        "Position": "President",
+        "Name": "Gregory L. Fenves"
+    },
+    {
+        "College": "Florida International University",
+        "Position": "President",
+        "Name": " Kenneth A. Jessell"
+    },
+    {
+        "College": "Florida State University",
+        "Position": "President",
+        "Name": " Richard McCullough"
+    },
+    {
+        "College": "George Mason University",
+        "Position": "President",
+        "Name": "Gregory Washington"
+    },
+    {
+        "College": "George Washington University",
+        "Position": "President",
+        "Name": "Ellen Granberg"
+    },
+    {
+        "College": "Georgetown University",
+        "Position": "President",
+        "Name": "John J. DeGioia"
+    },
+    {
+        "College": "Georgia Institute of Technology",
+        "Position": "President",
+        "Name": "Angel Cabrera"
+    },
+    {
+        "College": "Georgia State University",
+        "Position": "President",
+        "Name": "M. Brian Blake"
+    },
+    {
+        "College": "Graduate Center, CUNY",
+        "Position": "President",
+        "Name": "William P. Kelly"
+    },
+    {
+        "College": "Harvard University",
+        "Position": "President",
+        "Name": "Alan Garber"
+    },
+    {
+        "College": "Indiana University Bloomington",
+        "Position": "President",
+        "Name": "President Pam Whitten"
+    },
+    {
+        "College": "Iowa State University",
+        "Position": "President",
+        "Name": "$710,000 per year"
+    },
+    {
+        "College": "Johns Hopkins University",
+        "Position": "President",
+        "Name": "Ronald J. Daniels"
+    },
+    {
+        "College": "Kansas State University",
+        "Position": "President",
+        "Name": "Richard Linton"
+    },
+    {
+        "College": "Kent State University",
+        "Position": "President",
+        "Name": " Todd Diacon"
+    },
+    {
+        "College": "Louisiana State University",
+        "Position": "President",
+        "Name": "William F. Tate IV"
+    },
+    {
+        "College": "Massachusetts Institute of Technology",
+        "Position": "President",
+        "Name": "Sally Kornbluth"
+    },
+    {
+        "College": "Michigan State University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Mississippi State University",
+        "Position": "President",
+        "Name": "Mark Keenum"
+    },
+    {
+        "College": "Montana State University",
+        "Position": "President",
+        "Name": ""
+    },
+    {
+        "College": "New Jersey Institute of Technology",
+        "Position": "President",
+        "Name": "Teik C. Lim"
+    },
+    {
+        "College": "New York University",
+        "Position": "President",
+        "Name": " Linda G. Mills, JD, LCSW, PhD."
+    },
+    {
+        "College": "North Carolina State University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "North Dakota State University",
+        "Position": "President",
+        "Name": ""
+    },
+    {
+        "College": "Northeastern University",
+        "Position": "President",
+        "Name": "Joseph E. Aoun"
+    },
+    {
+        "College": "Northwestern University",
+        "Position": "President",
+        "Name": "President Michael Schill"
+    },
+    {
+        "College": "Ohio State University",
+        "Position": "President",
+        "Name": "President Walter \u201cTed\u201d Carter Jr."
+    },
+    {
+        "College": "Ohio University",
+        "Position": "President",
+        "Name": "Lori Lee Stewart Gonzalez"
+    },
+    {
+        "College": "Oklahoma State University\u2013Stillwater",
+        "Position": "President",
+        "Name": "Kayse Shrum"
+    },
+    {
+        "College": "Old Dominion University",
+        "Position": "President",
+        "Name": "Brian Hemphill"
+    },
+    {
+        "College": "Oregon State University",
+        "Position": "President",
+        "Name": "Jayathi Murthy - President"
+    },
+    {
+        "College": "Pennsylvania State University",
+        "Position": "President",
+        "Name": "Neeli Bendapudi"
+    },
+    {
+        "College": "Princeton University",
+        "Position": "President",
+        "Name": "Christopher Ludwig Eisgruber"
+    },
+    {
+        "College": "Purdue University",
+        "Position": "President",
+        "Name": "Mung Chiang"
+    },
+    {
+        "College": "Rensselaer Polytechnic Institute",
+        "Position": "President",
+        "Name": "Martin A. Schmidt"
+    },
+    {
+        "College": "Rice University",
+        "Position": "President",
+        "Name": "David Leebron"
+    },
+    {
+        "College": "Rutgers University\u2013New Brunswick",
+        "Position": "President",
+        "Name": " Jonathan Holloway"
+    },
+    {
+        "College": "Stanford University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Stony Brook University",
+        "Position": "President",
+        "Name": "President Richard McCormick"
+    },
+    {
+        "College": "Syracuse University",
+        "Position": "President",
+        "Name": "$1,083,758"
+    },
+    {
+        "College": "Temple University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Texas A&M University",
+        "Position": "President",
+        "Name": "Mark A. Welsh III"
+    },
+    {
+        "College": "Texas Tech University",
+        "Position": "President",
+        "Name": "President Lawrence Schovanec"
+    },
+    {
+        "College": "Tufts University",
+        "Position": "President",
+        "Name": "Sunil Kumar"
+    },
+    {
+        "College": "Tulane University",
+        "Position": "President",
+        "Name": " Michael A. Fitts!"
+    },
+    {
+        "College": "University at Albany, SUNY",
+        "Position": "President",
+        "Name": "Havid\u00e1n Rodr\u00edguez"
+    },
+    {
+        "College": "University at Buffalo",
+        "Position": "President",
+        "Name": "Satish K. Tripathi"
+    },
+    {
+        "College": "University of Alabama",
+        "Position": "President",
+        "Name": "Stuart R. Bell"
+    },
+    {
+        "College": "University of Alabama at Birmingham",
+        "Position": "President",
+        "Name": "Ray L. Watts"
+    },
+    {
+        "College": "University of Alabama in Huntsville",
+        "Position": "President",
+        "Name": "Charles L. Karr"
+    },
+    {
+        "College": "University of Arizona",
+        "Position": "President",
+        "Name": "Robert C. Robbins"
+    },
+    {
+        "College": "University of Arkansas",
+        "Position": "President",
+        "Name": " Donald R. Bobbitt"
+    },
+    {
+        "College": "University of California, Berkeley",
+        "Position": "President",
+        "Name": "Michael V. Drake"
+    },
+    {
+        "College": "University of California, Davis",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of California, Irvine",
+        "Position": "President",
+        "Name": "Chancellor Howard Gillman"
+    },
+    {
+        "College": "University of California, Los Angeles",
+        "Position": "President",
+        "Name": " Gene Block"
+    },
+    {
+        "College": "University of California, Riverside",
+        "Position": "President",
+        "Name": "Kim A. Wilcox"
+    },
+    {
+        "College": "University of California, San Diego",
+        "Position": "President",
+        "Name": "Michael Drake"
+    },
+    {
+        "College": "University of California, Santa Barbara",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of California, Santa Cruz",
+        "Position": "President",
+        "Name": "Chancellor Cynthia Larive"
+    },
+    {
+        "College": "University of Central Florida",
+        "Position": "President",
+        "Name": "Dr. Alexander N. Cartwright"
+    },
+    {
+        "College": "University of Chicago",
+        "Position": "President",
+        "Name": "Paul Alivisatos"
+    },
+    {
+        "College": "University of Cincinnati",
+        "Position": "President",
+        "Name": "Neville G. Pinto"
+    },
+    {
+        "College": "University of Colorado Boulder",
+        "Position": "President",
+        "Name": "President Todd Saliman"
+    },
+    {
+        "College": "University of Colorado Denver",
+        "Position": "President",
+        "Name": "President Todd Saliman"
+    },
+    {
+        "College": "University of Connecticut",
+        "Position": "President",
+        "Name": "Radenka Maric"
+    },
+    {
+        "College": "University of Delaware",
+        "Position": "President",
+        "Name": "Athens, Greece"
+    },
+    {
+        "College": "University of Denver",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Florida",
+        "Position": "President",
+        "Name": "Dr. Kent Fuchs"
+    },
+    {
+        "College": "University of Georgia",
+        "Position": "President",
+        "Name": "Jere Morehead"
+    },
+    {
+        "College": "University of Hawai\u02bbi at M\u0101noa",
+        "Position": "President",
+        "Name": "President David Lassner"
+    },
+    {
+        "College": "University of Houston",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Illinois Chicago",
+        "Position": "President",
+        "Name": "Chancellor Marie Lynn Miranda"
+    },
+    {
+        "College": "University of Illinois Urbana-Champaign",
+        "Position": "President",
+        "Name": "President Timothy L."
+    },
+    {
+        "College": "University of Iowa",
+        "Position": "President",
+        "Name": "Barbara J. Wilson"
+    },
+    {
+        "College": "University of Kansas",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Kentucky",
+        "Position": "President",
+        "Name": "Eli Capilouto"
+    },
+    {
+        "College": "University of Louisiana at Lafayette",
+        "Position": "President",
+        "Name": "Joseph Savoie"
+    },
+    {
+        "College": "University of Louisville",
+        "Position": "President",
+        "Name": "Kim Schatzel"
+    },
+    {
+        "College": "University of Maine",
+        "Position": "President",
+        "Name": " Joan Ferrini-Mundy"
+    },
+    {
+        "College": "University of Maryland, Baltimore County",
+        "Position": "President",
+        "Name": " Valerie Sheares Ashby"
+    },
+    {
+        "College": "University of Maryland, College Park",
+        "Position": "President",
+        "Name": "Darryll Pines"
+    },
+    {
+        "College": "University of Massachusetts Amherst",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Memphis",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Miami",
+        "Position": "President",
+        "Name": "Julio Frenk"
+    },
+    {
+        "College": "University of Michigan",
+        "Position": "President",
+        "Name": "Santa Ono"
+    },
+    {
+        "College": "University of Minnesota",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Mississippi",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Missouri",
+        "Position": "President",
+        "Name": "Mun Y. Choi"
+    },
+    {
+        "College": "University of Montana",
+        "Position": "President",
+        "Name": "Seth Bodnar"
+    },
+    {
+        "College": "University of Nebraska\u2013Lincoln",
+        "Position": "President",
+        "Name": "Walter E. Carter Jr."
+    },
+    {
+        "College": "University of Nevada, Las Vegas",
+        "Position": "President",
+        "Name": "Keith Whitfield"
+    },
+    {
+        "College": "University of Nevada, Reno",
+        "Position": "President",
+        "Name": "Brian Sandoval"
+    },
+    {
+        "College": "University of New Hampshire",
+        "Position": "President",
+        "Name": "James W. Dean Jr."
+    },
+    {
+        "College": "University of New Mexico",
+        "Position": "President",
+        "Name": " The current President of the University of New Mexico is Garnett S. Stokes!"
+    },
+    {
+        "College": "University of North Carolina at Chapel Hill",
+        "Position": "President",
+        "Name": " idk."
+    },
+    {
+        "College": "University of North Texas",
+        "Position": "President",
+        "Name": " Harrison Keller"
+    },
+    {
+        "College": "University of Notre Dame",
+        "Position": "President",
+        "Name": "Robert A. Dowd"
+    },
+    {
+        "College": "University of Oklahoma",
+        "Position": "President",
+        "Name": "Joseph Harroz, Jr."
+    },
+    {
+        "College": "University of Oregon",
+        "Position": "President",
+        "Name": "John Karl Scholz"
+    },
+    {
+        "College": "University of Pennsylvania",
+        "Position": "President",
+        "Name": "J. Larry Jameson"
+    },
+    {
+        "College": "University of Pittsburgh",
+        "Position": "President",
+        "Name": ": Ahah, got it!"
+    },
+    {
+        "College": "University of Rochester",
+        "Position": "President",
+        "Name": " Sarah C. Mangelsdorf"
+    },
+    {
+        "College": "University of South Carolina",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of South Florida",
+        "Position": "President",
+        "Name": " Rhea Law"
+    },
+    {
+        "College": "University of Southern California",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Southern Mississippi",
+        "Position": "President",
+        "Name": "Joseph S. Paul"
+    },
+    {
+        "College": "University of Tennessee",
+        "Position": "President",
+        "Name": "Randy Boyd"
+    },
+    {
+        "College": "University of Texas at Arlington",
+        "Position": "President",
+        "Name": "Jennifer Cowley"
+    },
+    {
+        "College": "University of Texas at Austin",
+        "Position": "President",
+        "Name": "Jay Hartzell"
+    },
+    {
+        "College": "University of Texas at Dallas",
+        "Position": "President",
+        "Name": " Dr. Richard C. Benson"
+    },
+    {
+        "College": "University of Texas at El Paso",
+        "Position": "President",
+        "Name": "Heather A. Wilson"
+    },
+    {
+        "College": "University of Texas at San Antonio",
+        "Position": "President",
+        "Name": "T. Taylor Eighmy"
+    },
+    {
+        "College": "University of Utah",
+        "Position": "President",
+        "Name": "Taylor Randall"
+    },
+    {
+        "College": "University of Virginia",
+        "Position": "President",
+        "Name": "James Ryan -"
+    },
+    {
+        "College": "University of Washington",
+        "Position": "President",
+        "Name": "Ana Mari Cauce"
+    },
+    {
+        "College": "University of Wisconsin\u2013Madison",
+        "Position": "President",
+        "Name": "$583,440"
+    },
+    {
+        "College": "University of Wisconsin\u2013Milwaukee",
+        "Position": "President",
+        "Name": "Mark A."
+    },
+    {
+        "College": "Utah State University",
+        "Position": "President",
+        "Name": "Elizabeth R. Cantwell"
+    },
+    {
+        "College": "Vanderbilt University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Virginia Commonwealth University",
+        "Position": "President",
+        "Name": " - Dr. Michael Rao, Ph.D."
+    },
+    {
+        "College": "Virginia Tech",
+        "Position": "President",
+        "Name": " Dr. Tim Sands"
+    },
+    {
+        "College": "Washington State University",
+        "Position": "President",
+        "Name": "Kirk Schulz"
+    },
+    {
+        "College": "Washington University in St. Louis",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Wayne State University",
+        "Position": "President",
+        "Name": "Kimberly Andrews Espy"
+    },
+    {
+        "College": "West Virginia University",
+        "Position": "President",
+        "Name": "Elwood Gordon Gee"
+    },
+    {
+        "College": "Yale University",
+        "Position": "President",
+        "Name": "Peter Salovey"
+    },
+    {
+        "College": "Air Force Institute of Technology",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "American University",
+        "Position": "President",
+        "Name": " Jonathan R. Alger"
+    },
+    {
+        "College": "Arizona State University Digital Immersion",
+        "Position": "President",
+        "Name": "President Michael M. Crow"
+    },
+    {
+        "College": "Arkansas State University",
+        "Position": "President",
+        "Name": " Dr. Brendan Kelly"
+    },
+    {
+        "College": "Augusta University",
+        "Position": "President",
+        "Name": "Brooks A. Keel"
+    },
+    {
+        "College": "Azusa Pacific University",
+        "Position": "President",
+        "Name": "Adam J. Morris"
+    },
+    {
+        "College": "Ball State University",
+        "Position": "President",
+        "Name": " Geoffrey S. Mearns"
+    },
+    {
+        "College": "Boise State University",
+        "Position": "President",
+        "Name": "Marlene Tromp"
+    },
+    {
+        "College": "Bowling Green State University",
+        "Position": "President",
+        "Name": "$526,600"
+    },
+    {
+        "College": "Brigham Young University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "California State University, East Bay",
+        "Position": "President",
+        "Name": "Cathy Sandeen"
+    },
+    {
+        "College": "California State University, Fresno",
+        "Position": "President",
+        "Name": "Diana Ralls -"
+    },
+    {
+        "College": "California State University, Fullerton",
+        "Position": "President",
+        "Name": "President Ronald S. Rochon"
+    },
+    {
+        "College": "California State University, Long Beach",
+        "Position": "President",
+        "Name": "Jane Close Conoley"
+    },
+    {
+        "College": "California State University, San Bernardino",
+        "Position": "President",
+        "Name": ""
+    },
+    {
+        "College": "Catholic University of America",
+        "Position": "President",
+        "Name": "Peter Kilpatrick"
+    },
+    {
+        "College": "Central Michigan University",
+        "Position": "President",
+        "Name": "Neil MacKinnon"
+    },
+    {
+        "College": "Chapman University",
+        "Position": "President",
+        "Name": "Daniele C. Struppa"
+    },
+    {
+        "College": "Claremont Graduate University",
+        "Position": "President",
+        "Name": " Len Jessup"
+    },
+    {
+        "College": "Clark Atlanta University",
+        "Position": "President",
+        "Name": "George French, Jr."
+    },
+    {
+        "College": "Clark University",
+        "Position": "President",
+        "Name": "David Fithian"
+    },
+    {
+        "College": "Clarkson University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Cleveland State University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "College of William & Mary",
+        "Position": "President",
+        "Name": "President Katherine A. Rowe"
+    },
+    {
+        "College": "Creighton University",
+        "Position": "President",
+        "Name": "Daniel S. Hendrickson"
+    },
+    {
+        "College": "CUNY City College",
+        "Position": "President",
+        "Name": "Vincent Boudreau"
+    },
+    {
+        "College": "DePaul University",
+        "Position": "President",
+        "Name": "Robert L. Manuel"
+    },
+    {
+        "College": "Duquesne University",
+        "Position": "President",
+        "Name": "Ken Gormley"
+    },
+    {
+        "College": "East Carolina University",
+        "Position": "President",
+        "Name": "Thomas Jordan Jarvis"
+    },
+    {
+        "College": "East Tennessee State University",
+        "Position": "President",
+        "Name": "Brian Noland"
+    },
+    {
+        "College": "Eastern Michigan University",
+        "Position": "President",
+        "Name": "Mark Schlissel"
+    },
+    {
+        "College": "Florida Agricultural and Mechanical University",
+        "Position": "President",
+        "Name": "$400,000"
+    },
+    {
+        "College": "Florida Atlantic University",
+        "Position": "President",
+        "Name": "Stacy Volnick"
+    },
+    {
+        "College": "Florida Institute of Technology",
+        "Position": "President",
+        "Name": "Anthony Catanese"
+    },
+    {
+        "College": "Fordham University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Georgia Southern University",
+        "Position": "President",
+        "Name": "Dennis J. Shields"
+    },
+    {
+        "College": "Howard University",
+        "Position": "President",
+        "Name": "Ben Vinson III"
+    },
+    {
+        "College": "Idaho State University",
+        "Position": "President",
+        "Name": "Dr. Robert W. Wagner"
+    },
+    {
+        "College": "Illinois Institute of Technology",
+        "Position": "President",
+        "Name": "Raj Echambadi"
+    },
+    {
+        "College": "Illinois State University",
+        "Position": "President",
+        "Name": "President Aondover Tarhule"
+    },
+    {
+        "College": "Indiana University Indianapolis",
+        "Position": "President",
+        "Name": "President Pamela Whitten"
+    },
+    {
+        "College": "Indiana University of Pennsylvania",
+        "Position": "President",
+        "Name": "President Michael Driscoll"
+    },
+    {
+        "College": "Jackson State University",
+        "Position": "President",
+        "Name": "President Marcus L. Thompson"
+    },
+    {
+        "College": "James Madison University",
+        "Position": "President",
+        "Name": " Charlie King"
+    },
+    {
+        "College": "Kennesaw State University",
+        "Position": "President",
+        "Name": "President Kathy S. Schwaig"
+    },
+    {
+        "College": "Lehigh University",
+        "Position": "President",
+        "Name": "Joseph J. Helble"
+    },
+    {
+        "College": "Loma Linda University",
+        "Position": "President",
+        "Name": "Richard H. Hart, MD"
+    },
+    {
+        "College": "Long Island University",
+        "Position": "President",
+        "Name": "Christopher Fevola -"
+    },
+    {
+        "College": "Louisiana Tech University",
+        "Position": "President",
+        "Name": "Colonel Arthur Taylor Prescott"
+    },
+    {
+        "College": "Loyola Marymount University",
+        "Position": "President",
+        "Name": "Timothy Law Snyder"
+    },
+    {
+        "College": "Loyola University Chicago",
+        "Position": "President",
+        "Name": "Mark Reed"
+    },
+    {
+        "College": "Marquette University",
+        "Position": "President",
+        "Name": "Michael Lovell"
+    },
+    {
+        "College": "Marshall University",
+        "Position": "President",
+        "Name": "Brad D. Smith"
+    },
+    {
+        "College": "Mercer University",
+        "Position": "President",
+        "Name": " William D. Underwood"
+    },
+    {
+        "College": "Miami University",
+        "Position": "President",
+        "Name": "Gregory Crawford"
+    },
+    {
+        "College": "Michigan Technological University",
+        "Position": "President",
+        "Name": "Richard J. Koubek"
+    },
+    {
+        "College": "Middle Tennessee State University",
+        "Position": "President",
+        "Name": "Sidney A. McPhee"
+    },
+    {
+        "College": "Missouri University of Science and Technology",
+        "Position": "President",
+        "Name": " The President of Missouri University of Science and Technology (Missouri S&T) is Dr. Cliffton Callender."
+    },
+    {
+        "College": "Montclair State University",
+        "Position": "President",
+        "Name": "Jonathan Koppell"
+    },
+    {
+        "College": "Morgan State University",
+        "Position": "President",
+        "Name": "David Wilson"
+    },
+    {
+        "College": "New Mexico State University",
+        "Position": "President",
+        "Name": "Valerio Ferme"
+    },
+    {
+        "College": "North Carolina A&T State University",
+        "Position": "President",
+        "Name": "James Martin II"
+    },
+    {
+        "College": "Northern Arizona University",
+        "Position": "President",
+        "Name": "Cruz Rivera"
+    },
+    {
+        "College": "Northern Illinois University",
+        "Position": "President",
+        "Name": ""
+    },
+    {
+        "College": "Nova Southeastern University",
+        "Position": "President",
+        "Name": "George L. Hanbury II"
+    },
+    {
+        "College": "Oakland University",
+        "Position": "President",
+        "Name": "$517,673 per year"
+    },
+    {
+        "College": "Portland State University",
+        "Position": "President",
+        "Name": "Ann Cudd"
+    },
+    {
+        "College": "Prairie View A&M University",
+        "Position": "President",
+        "Name": "Tomikia P. LeGrande"
+    },
+    {
+        "College": "Rochester Institute of Technology",
+        "Position": "President",
+        "Name": "David C. Munson"
+    },
+    {
+        "College": "Rowan University",
+        "Position": "President",
+        "Name": "Ali A. Houshmand"
+    },
+    {
+        "College": "Rutgers University\u2013Camden",
+        "Position": "President",
+        "Name": ""
+    },
+    {
+        "College": "Rutgers University\u2013Newark",
+        "Position": "President",
+        "Name": "Jonathan Holloway"
+    },
+    {
+        "College": "Saint Louis University",
+        "Position": "President",
+        "Name": "Fred Pestello"
+    },
+    {
+        "College": "Sam Houston State University",
+        "Position": "President",
+        "Name": "Dr. Alisa White"
+    },
+    {
+        "College": "San Diego State University",
+        "Position": "President",
+        "Name": "Adela de la Torre"
+    },
+    {
+        "College": "San Francisco State University",
+        "Position": "President",
+        "Name": "Paul J. Fitzgerald, S.J."
+    },
+    {
+        "College": "Seton Hall University",
+        "Position": "President",
+        "Name": "Monsignor Joseph R. Reilly"
+    },
+    {
+        "College": "South Dakota State University",
+        "Position": "President",
+        "Name": "Barry H. Dunn"
+    },
+    {
+        "College": "Southern Illinois University Carbondale",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Southern Methodist University",
+        "Position": "President",
+        "Name": " R. Gerald Turner"
+    },
+    {
+        "College": "Southern University",
+        "Position": "President",
+        "Name": "Dennis J. Shields"
+    },
+    {
+        "College": "Stevens Institute of Technology",
+        "Position": "President",
+        "Name": "Nariman Farvardin"
+    },
+    {
+        "College": "SUNY College of Environmental Science and Forestry",
+        "Position": "President",
+        "Name": "Joanie Mahoney"
+    },
+    {
+        "College": "Tarleton State University",
+        "Position": "President",
+        "Name": "James L. Hurley"
+    },
+    {
+        "College": "Teachers College, Columbia University",
+        "Position": "President",
+        "Name": "Thomas R. Bailey"
+    },
+    {
+        "College": "Tennessee State University",
+        "Position": "President",
+        "Name": "Glenda Glover"
+    },
+    {
+        "College": "Tennessee Technological University",
+        "Position": "President",
+        "Name": " Dr. Philip Oldham!"
+    },
+    {
+        "College": "Texas A&M University\u2013Corpus Christi",
+        "Position": "President",
+        "Name": "Kelly M. Miller"
+    },
+    {
+        "College": "Texas A&M University\u2013Kingsville",
+        "Position": "President",
+        "Name": "Robert H. Vela Jr."
+    },
+    {
+        "College": "Texas Christian University",
+        "Position": "President",
+        "Name": "Daniel W. Pullin"
+    },
+    {
+        "College": "Texas Southern University",
+        "Position": "President",
+        "Name": "Dennis J. Shields"
+    },
+    {
+        "College": "Texas State University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "The New School",
+        "Position": "President",
+        "Name": "Joel Towers"
+    },
+    {
+        "College": "Thomas Jefferson University",
+        "Position": "President",
+        "Name": "Dr Susan Aldridge -"
+    },
+    {
+        "College": "University of Akron",
+        "Position": "President",
+        "Name": "Robert J. Nemer"
+    },
+    {
+        "College": "University of Alaska Fairbanks",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Arkansas at Little Rock",
+        "Position": "President",
+        "Name": "Christina Drale"
+    },
+    {
+        "College": "University of California, Merced",
+        "Position": "President",
+        "Name": "Juan S\u00e1nchez Mu\u00f1oz"
+    },
+    {
+        "College": "University of Colorado Colorado Springs",
+        "Position": "President",
+        "Name": "President Todd Saliman"
+    },
+    {
+        "College": "University of Dayton",
+        "Position": "President",
+        "Name": "Eric F. Spina"
+    },
+    {
+        "College": "University of Idaho",
+        "Position": "President",
+        "Name": "C. Scott Green"
+    },
+    {
+        "College": "University of Maryland Eastern Shore",
+        "Position": "President",
+        "Name": "Heidi M. Anderson"
+    },
+    {
+        "College": "University of Massachusetts Boston",
+        "Position": "President",
+        "Name": "Marty Meehan"
+    },
+    {
+        "College": "University of Massachusetts Dartmouth",
+        "Position": "President",
+        "Name": "Marty Meehan"
+    },
+    {
+        "College": "University of Massachusetts Lowell",
+        "Position": "President",
+        "Name": "President Marty Meehan"
+    },
+    {
+        "College": "University of Missouri\u2013Kansas City",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Missouri\u2013St. Louis",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Nebraska Omaha",
+        "Position": "President",
+        "Name": "Jeffrey P. Gold, M.D."
+    },
+    {
+        "College": "University of New England",
+        "Position": "President",
+        "Name": "James D. Herbert"
+    },
+    {
+        "College": "University of New Orleans",
+        "Position": "President",
+        "Name": "President Kathy Johnson"
+    },
+    {
+        "College": "University of North Carolina at Charlotte",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of North Carolina at Greensboro",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of North Carolina Wilmington",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of North Dakota",
+        "Position": "President",
+        "Name": "Dr. Andrew Armacost"
+    },
+    {
+        "College": "University of North Florida",
+        "Position": "President",
+        "Name": "Moez Limayem"
+    },
+    {
+        "College": "University of Puerto Rico, R\u00edo Piedras Campus",
+        "Position": "President",
+        "Name": "3.6"
+    },
+    {
+        "College": "University of Rhode Island",
+        "Position": "President",
+        "Name": "President Marc B. Parlange"
+    },
+    {
+        "College": "University of San Diego",
+        "Position": "President",
+        "Name": "James T. Harris III"
+    },
+    {
+        "College": "University of South Alabama",
+        "Position": "President",
+        "Name": "Josiah Bonner"
+    },
+    {
+        "College": "University of South Dakota",
+        "Position": "President",
+        "Name": "Sheila K. Gestring"
+    },
+    {
+        "College": "University of Texas at Tyler",
+        "Position": "President",
+        "Name": " Julie V. Philley, MD"
+    },
+    {
+        "College": "University of Texas Rio Grande Valley",
+        "Position": "President",
+        "Name": "Guy Bailey"
+    },
+    {
+        "College": "University of Toledo",
+        "Position": "President",
+        "Name": " Dr. Gregory Postel"
+    },
+    {
+        "College": "University of Tulsa",
+        "Position": "President",
+        "Name": "President Brad Carson"
+    },
+    {
+        "College": "University of Vermont",
+        "Position": "President",
+        "Name": "Suresh Garimella"
+    },
+    {
+        "College": "University of Wyoming",
+        "Position": "President",
+        "Name": "Ed Seidel"
+    },
+    {
+        "College": "Villanova University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Wake Forest University",
+        "Position": "President",
+        "Name": "Susan Rae Wente"
+    },
+    {
+        "College": "West Chester University of Pennsylvania",
+        "Position": "President",
+        "Name": "Greg Weisenstein"
+    },
+    {
+        "College": "Western Michigan University",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "Wichita State University",
+        "Position": "President",
+        "Name": "Richard Muma"
+    },
+    {
+        "College": "Worcester Polytechnic Institute",
+        "Position": "President",
+        "Name": "Grace Wang"
+    },
+    {
+        "College": "Wright State University",
+        "Position": "President",
+        "Name": "$450,000"
+    },
+    {
+        "College": "Albert Einstein College of Medicine",
+        "Position": "President",
+        "Name": "Yaron Tomer"
+    },
+    {
+        "College": "Baylor College of Medicine",
+        "Position": "President",
+        "Name": "Paul Klotman"
+    },
+    {
+        "College": "Icahn School of Medicine at Mount Sinai",
+        "Position": "President",
+        "Name": "Barry L. Skolnick"
+    },
+    {
+        "College": "Mayo Clinic College of Medicine and Science",
+        "Position": "President",
+        "Name": " Megha Tollefson, M.D."
+    },
+    {
+        "College": "Medical College of Wisconsin",
+        "Position": "President",
+        "Name": "John R. Raymond, Sr."
+    },
+    {
+        "College": "Medical University of South Carolina",
+        "Position": "President",
+        "Name": "David J. Cole"
+    },
+    {
+        "College": "Oregon Health & Science University",
+        "Position": "President",
+        "Name": "Dr. Danny Jacobs"
+    },
+    {
+        "College": "Rockefeller University",
+        "Position": "President",
+        "Name": "Richard P. Lifton"
+    },
+    {
+        "College": "Texas Tech University Health Sciences Center",
+        "Position": "President",
+        "Name": "Lori Rice-Spearman"
+    },
+    {
+        "College": "Uniformed Services University of the Health Sciences",
+        "Position": "President",
+        "Name": "President Jonathan Woodson"
+    },
+    {
+        "College": "University of Arkansas for Medical Sciences",
+        "Position": "President",
+        "Name": "$1,250,000.04"
+    },
+    {
+        "College": "University of California, San Francisco",
+        "Position": "President",
+        "Name": "Paul J. Fitzgerald, S.J."
+    },
+    {
+        "College": "University of Maryland, Baltimore",
+        "Position": "President",
+        "Name": "ERROR"
+    },
+    {
+        "College": "University of Massachusetts Chan Medical School",
+        "Position": "President",
+        "Name": "Eric W. Dickson MD"
+    },
+    {
+        "College": "University of Nebraska Medical Center",
+        "Position": "President",
+        "Name": "James Linder"
+    },
+    {
+        "College": "University of Oklahoma Health Sciences Center",
+        "Position": "President",
+        "Name": "Richard P. Lofgren, M.D."
+    },
+    {
+        "College": "University of Tennessee Health Science Center",
+        "Position": "President",
+        "Name": "Peter F. Buckley"
+    },
+    {
+        "College": "University of Texas Health Science Center at Houston",
+        "Position": "President",
+        "Name": "Zach Dietze"
+    },
+    {
+        "College": "University of Texas Health Science Center at San Antonio",
+        "Position": "President",
+        "Name": "Edward Banos"
+    },
+    {
+        "College": "University of Texas Medical Branch",
+        "Position": "President",
+        "Name": "President Jochen Reiser"
+    },
+    {
+        "College": "University of Texas Southwestern Medical Center",
+        "Position": "President",
+        "Name": "Daniel Podolsky"
+    },
+    {
+        "College": "Virginia Health Sciences",
+        "Position": "President",
+        "Name": "Craig Kent"
+    },
+    {
+        "College": "Weill Cornell Medicine",
+        "Position": "President",
+        "Name": "Robert Min, M.D."
+    }
+]

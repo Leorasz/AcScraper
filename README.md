@@ -1,0 +1,3 @@
+I found that using completely different prompts for each task was most effective. 
+The LLM couldn't exactly be trusted to always choose the next action, although
+that might be a function of me using a relatively small model. With a bigger model like ChatGPT, this might not be as much of a problem. The JSON files contain the presidents of the list of universities I could find from Wikipedia, with some extra data for debugging purposes. I used Playwright for the webscraping, which gave me most of the functionality I needed. 

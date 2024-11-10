@@ -1,0 +1,1512 @@
+[
+    {
+        "Name": "Arizona State University",
+        "Wiki Link": "/wiki/Arizona_State_University",
+        "Website Link": "https://www.asu.edu/"
+    },
+    {
+        "Name": "Auburn University",
+        "Wiki Link": "/wiki/Auburn_University",
+        "Website Link": "http://auburn.edu/"
+    },
+    {
+        "Name": "Baylor University",
+        "Wiki Link": "/wiki/Baylor_University",
+        "Website Link": "https://baylor.edu"
+    },
+    {
+        "Name": "Binghamton University",
+        "Wiki Link": "/wiki/Binghamton_University",
+        "Website Link": "https://www.binghamton.edu"
+    },
+    {
+        "Name": "Boston College",
+        "Wiki Link": "/wiki/Boston_College",
+        "Website Link": "https://bc.edu"
+    },
+    {
+        "Name": "Boston University",
+        "Wiki Link": "/wiki/Boston_University",
+        "Website Link": "https://bu.edu/"
+    },
+    {
+        "Name": "Brandeis University",
+        "Wiki Link": "/wiki/Brandeis_University",
+        "Website Link": "http://www.brandeis.edu/"
+    },
+    {
+        "Name": "Brown University",
+        "Wiki Link": "/wiki/Brown_University",
+        "Website Link": "http://brown.edu"
+    },
+    {
+        "Name": "California Institute of Technology",
+        "Wiki Link": "/wiki/California_Institute_of_Technology",
+        "Website Link": "https://www.caltech.edu"
+    },
+    {
+        "Name": "Carnegie Mellon University",
+        "Wiki Link": "/wiki/Carnegie_Mellon_University",
+        "Website Link": "https://cmu.edu"
+    },
+    {
+        "Name": "Case Western Reserve University",
+        "Wiki Link": "/wiki/Case_Western_Reserve_University",
+        "Website Link": "https://case.edu"
+    },
+    {
+        "Name": "Clemson University",
+        "Wiki Link": "/wiki/Clemson_University",
+        "Website Link": "http://clemson.edu"
+    },
+    {
+        "Name": "Colorado School of Mines",
+        "Wiki Link": "/wiki/Colorado_School_of_Mines",
+        "Website Link": "http://www.mines.edu"
+    },
+    {
+        "Name": "Colorado State University",
+        "Wiki Link": "/wiki/Colorado_State_University",
+        "Website Link": "https://www.colostate.edu"
+    },
+    {
+        "Name": "Columbia University",
+        "Wiki Link": "/wiki/Columbia_University",
+        "Website Link": "https://columbia.edu"
+    },
+    {
+        "Name": "Cornell University",
+        "Wiki Link": "/wiki/Cornell_University",
+        "Website Link": "https://cornell.edu"
+    },
+    {
+        "Name": "Dartmouth College",
+        "Wiki Link": "/wiki/Dartmouth_College",
+        "Website Link": "https://home.dartmouth.edu"
+    },
+    {
+        "Name": "Drexel University",
+        "Wiki Link": "/wiki/Drexel_University",
+        "Website Link": "http://drexel.edu"
+    },
+    {
+        "Name": "Duke University",
+        "Wiki Link": "/wiki/Duke_University",
+        "Website Link": "https://duke.edu"
+    },
+    {
+        "Name": "Emory University",
+        "Wiki Link": "/wiki/Emory_University",
+        "Website Link": "https://emory.edu"
+    },
+    {
+        "Name": "Florida International University",
+        "Wiki Link": "/wiki/Florida_International_University",
+        "Website Link": "http://www.fiu.edu"
+    },
+    {
+        "Name": "Florida State University",
+        "Wiki Link": "/wiki/Florida_State_University",
+        "Website Link": "http://fsu.edu"
+    },
+    {
+        "Name": "George Mason University",
+        "Wiki Link": "/wiki/George_Mason_University",
+        "Website Link": "https://www.gmu.edu/"
+    },
+    {
+        "Name": "George Washington University",
+        "Wiki Link": "/wiki/George_Washington_University",
+        "Website Link": "https://www.gwu.edu"
+    },
+    {
+        "Name": "Georgetown University",
+        "Wiki Link": "/wiki/Georgetown_University",
+        "Website Link": "http://georgetown.edu"
+    },
+    {
+        "Name": "Georgia Institute of Technology",
+        "Wiki Link": "/wiki/Georgia_Tech",
+        "Website Link": "https://gatech.edu"
+    },
+    {
+        "Name": "Georgia State University",
+        "Wiki Link": "/wiki/Georgia_State_University",
+        "Website Link": "http://www.gsu.edu"
+    },
+    {
+        "Name": "Graduate Center, CUNY",
+        "Wiki Link": "/wiki/CUNY_Graduate_Center",
+        "Website Link": "http://www.gc.cuny.edu"
+    },
+    {
+        "Name": "Harvard University",
+        "Wiki Link": "/wiki/Harvard_University",
+        "Website Link": "https://harvard.edu"
+    },
+    {
+        "Name": "Indiana University Bloomington",
+        "Wiki Link": "/wiki/Indiana_University_Bloomington",
+        "Website Link": "http://bloomington.iu.edu"
+    },
+    {
+        "Name": "Iowa State University",
+        "Wiki Link": "/wiki/Iowa_State_University",
+        "Website Link": "https://www.iastate.edu/"
+    },
+    {
+        "Name": "Johns Hopkins University",
+        "Wiki Link": "/wiki/Johns_Hopkins_University",
+        "Website Link": "https://www.jhu.edu/"
+    },
+    {
+        "Name": "Kansas State University",
+        "Wiki Link": "/wiki/Kansas_State_University",
+        "Website Link": "http://www.k-state.edu"
+    },
+    {
+        "Name": "Kent State University",
+        "Wiki Link": "/wiki/Kent_State_University",
+        "Website Link": "https://www.kent.edu/"
+    },
+    {
+        "Name": "Louisiana State University",
+        "Wiki Link": "/wiki/Louisiana_State_University",
+        "Website Link": "http://www.lsu.edu"
+    },
+    {
+        "Name": "Massachusetts Institute of Technology",
+        "Wiki Link": "/wiki/Massachusetts_Institute_of_Technology",
+        "Website Link": "https://mit.edu"
+    },
+    {
+        "Name": "Michigan State University",
+        "Wiki Link": "/wiki/Michigan_State_University",
+        "Website Link": "https://msu.edu/"
+    },
+    {
+        "Name": "Mississippi State University",
+        "Wiki Link": "/wiki/Mississippi_State_University",
+        "Website Link": "http://www.msstate.edu"
+    },
+    {
+        "Name": "Montana State University",
+        "Wiki Link": "/wiki/Montana_State_University",
+        "Website Link": "https://www.montana.edu/"
+    },
+    {
+        "Name": "New Jersey Institute of Technology",
+        "Wiki Link": "/wiki/New_Jersey_Institute_of_Technology",
+        "Website Link": "https://www.njit.edu"
+    },
+    {
+        "Name": "New York University",
+        "Wiki Link": "/wiki/New_York_University",
+        "Website Link": "https://nyu.edu"
+    },
+    {
+        "Name": "North Carolina State University",
+        "Wiki Link": "/wiki/North_Carolina_State_University",
+        "Website Link": "http://ncsu.edu"
+    },
+    {
+        "Name": "North Dakota State University",
+        "Wiki Link": "/wiki/North_Dakota_State_University",
+        "Website Link": "http://www.ndsu.edu"
+    },
+    {
+        "Name": "Northeastern University",
+        "Wiki Link": "/wiki/Northeastern_University",
+        "Website Link": "http://northeastern.edu"
+    },
+    {
+        "Name": "Northwestern University",
+        "Wiki Link": "/wiki/Northwestern_University",
+        "Website Link": "https://www.northwestern.edu"
+    },
+    {
+        "Name": "Ohio State University",
+        "Wiki Link": "/wiki/Ohio_State_University",
+        "Website Link": "https://osu.edu"
+    },
+    {
+        "Name": "Ohio University",
+        "Wiki Link": "/wiki/Ohio_University",
+        "Website Link": "http://ohio.edu"
+    },
+    {
+        "Name": "Oklahoma State University\u2013Stillwater",
+        "Wiki Link": "/wiki/Oklahoma_State_University%E2%80%93Stillwater",
+        "Website Link": "https://go.okstate.edu/"
+    },
+    {
+        "Name": "Old Dominion University",
+        "Wiki Link": "/wiki/Old_Dominion_University",
+        "Website Link": "http://www.odu.edu"
+    },
+    {
+        "Name": "Oregon State University",
+        "Wiki Link": "/wiki/Oregon_State_University",
+        "Website Link": "http://www.oregonstate.edu"
+    },
+    {
+        "Name": "Pennsylvania State University",
+        "Wiki Link": "/wiki/Pennsylvania_State_University",
+        "Website Link": "https://www.psu.edu/"
+    },
+    {
+        "Name": "Princeton University",
+        "Wiki Link": "/wiki/Princeton_University",
+        "Website Link": "http://princeton.edu"
+    },
+    {
+        "Name": "Purdue University",
+        "Wiki Link": "/wiki/Purdue_University",
+        "Website Link": "https://purdue.edu"
+    },
+    {
+        "Name": "Rensselaer Polytechnic Institute",
+        "Wiki Link": "/wiki/Rensselaer_Polytechnic_Institute",
+        "Website Link": "http://www.rpi.edu"
+    },
+    {
+        "Name": "Rice University",
+        "Wiki Link": "/wiki/Rice_University",
+        "Website Link": "https://rice.edu"
+    },
+    {
+        "Name": "Rutgers University\u2013New Brunswick",
+        "Wiki Link": "/wiki/Rutgers_University%E2%80%93New_Brunswick",
+        "Website Link": "https://newbrunswick.rutgers.edu"
+    },
+    {
+        "Name": "Stanford University",
+        "Wiki Link": "/wiki/Stanford_University",
+        "Website Link": "https://stanford.edu"
+    },
+    {
+        "Name": "Stony Brook University",
+        "Wiki Link": "/wiki/Stony_Brook_University",
+        "Website Link": "https://www.stonybrook.edu/"
+    },
+    {
+        "Name": "Syracuse University",
+        "Wiki Link": "/wiki/Syracuse_University",
+        "Website Link": "https://syracuse.edu"
+    },
+    {
+        "Name": "Temple University",
+        "Wiki Link": "/wiki/Temple_University",
+        "Website Link": "http://temple.edu"
+    },
+    {
+        "Name": "Texas A&M University",
+        "Wiki Link": "/wiki/Texas_A%26M_University",
+        "Website Link": "http://tamu.edu"
+    },
+    {
+        "Name": "Texas Tech University",
+        "Wiki Link": "/wiki/Texas_Tech_University",
+        "Website Link": "https://www.ttu.edu/"
+    },
+    {
+        "Name": "Tufts University",
+        "Wiki Link": "/wiki/Tufts_University",
+        "Website Link": "https://tufts.edu"
+    },
+    {
+        "Name": "Tulane University",
+        "Wiki Link": "/wiki/Tulane_University",
+        "Website Link": "https://tulane.edu"
+    },
+    {
+        "Name": "University at Albany, SUNY",
+        "Wiki Link": "/wiki/University_at_Albany,_SUNY",
+        "Website Link": "http://www.albany.edu"
+    },
+    {
+        "Name": "University at Buffalo",
+        "Wiki Link": "/wiki/University_at_Buffalo",
+        "Website Link": "https://www.buffalo.edu/"
+    },
+    {
+        "Name": "University of Alabama",
+        "Wiki Link": "/wiki/University_of_Alabama",
+        "Website Link": "https://www.ua.edu/"
+    },
+    {
+        "Name": "University of Alabama at Birmingham",
+        "Wiki Link": "/wiki/University_of_Alabama_at_Birmingham",
+        "Website Link": "http://www.uab.edu"
+    },
+    {
+        "Name": "University of Alabama in Huntsville",
+        "Wiki Link": "/wiki/University_of_Alabama_in_Huntsville",
+        "Website Link": "http://www.uah.edu"
+    },
+    {
+        "Name": "University of Arizona",
+        "Wiki Link": "/wiki/University_of_Arizona",
+        "Website Link": "https://www.arizona.edu/"
+    },
+    {
+        "Name": "University of Arkansas",
+        "Wiki Link": "/wiki/University_of_Arkansas",
+        "Website Link": "http://www.uark.edu"
+    },
+    {
+        "Name": "University of California, Berkeley",
+        "Wiki Link": "/wiki/University_of_California,_Berkeley",
+        "Website Link": "https://www.berkeley.edu/"
+    },
+    {
+        "Name": "University of California, Davis",
+        "Wiki Link": "/wiki/University_of_California,_Davis",
+        "Website Link": "https://ucdavis.edu"
+    },
+    {
+        "Name": "University of California, Irvine",
+        "Wiki Link": "/wiki/University_of_California,_Irvine",
+        "Website Link": "https://uci.edu"
+    },
+    {
+        "Name": "University of California, Los Angeles",
+        "Wiki Link": "/wiki/University_of_California,_Los_Angeles",
+        "Website Link": "https://ucla.edu"
+    },
+    {
+        "Name": "University of California, Riverside",
+        "Wiki Link": "/wiki/University_of_California,_Riverside",
+        "Website Link": "https://ucr.edu"
+    },
+    {
+        "Name": "University of California, San Diego",
+        "Wiki Link": "/wiki/University_of_California,_San_Diego",
+        "Website Link": "https://ucsd.edu/"
+    },
+    {
+        "Name": "University of California, Santa Barbara",
+        "Wiki Link": "/wiki/University_of_California,_Santa_Barbara",
+        "Website Link": "https://ucsb.edu"
+    },
+    {
+        "Name": "University of California, Santa Cruz",
+        "Wiki Link": "/wiki/University_of_California,_Santa_Cruz",
+        "Website Link": "https://ucsc.edu"
+    },
+    {
+        "Name": "University of Central Florida",
+        "Wiki Link": "/wiki/University_of_Central_Florida",
+        "Website Link": "https://www.ucf.edu/"
+    },
+    {
+        "Name": "University of Chicago",
+        "Wiki Link": "/wiki/University_of_Chicago",
+        "Website Link": "https://uchicago.edu"
+    },
+    {
+        "Name": "University of Cincinnati",
+        "Wiki Link": "/wiki/University_of_Cincinnati",
+        "Website Link": "http://uc.edu"
+    },
+    {
+        "Name": "University of Colorado Boulder",
+        "Wiki Link": "/wiki/University_of_Colorado_Boulder",
+        "Website Link": "https://www.colorado.edu/"
+    },
+    {
+        "Name": "University of Colorado Denver",
+        "Wiki Link": "/wiki/University_of_Colorado_Denver",
+        "Website Link": "http://www.ucdenver.edu"
+    },
+    {
+        "Name": "University of Connecticut",
+        "Wiki Link": "/wiki/University_of_Connecticut",
+        "Website Link": "http://uconn.edu"
+    },
+    {
+        "Name": "University of Delaware",
+        "Wiki Link": "/wiki/University_of_Delaware",
+        "Website Link": "https://udel.edu"
+    },
+    {
+        "Name": "University of Denver",
+        "Wiki Link": "/wiki/University_of_Denver",
+        "Website Link": "https://du.edu"
+    },
+    {
+        "Name": "University of Florida",
+        "Wiki Link": "/wiki/University_of_Florida",
+        "Website Link": "http://ufl.edu"
+    },
+    {
+        "Name": "University of Georgia",
+        "Wiki Link": "/wiki/University_of_Georgia",
+        "Website Link": "https://uga.edu"
+    },
+    {
+        "Name": "University of Hawai\u02bbi at M\u0101noa",
+        "Wiki Link": "/wiki/University_of_Hawai%CA%BBi_at_M%C4%81noa",
+        "Website Link": "https://manoa.hawaii.edu"
+    },
+    {
+        "Name": "University of Houston",
+        "Wiki Link": "/wiki/University_of_Houston",
+        "Website Link": "https://uh.edu/"
+    },
+    {
+        "Name": "University of Illinois Chicago",
+        "Wiki Link": "/wiki/University_of_Illinois_Chicago",
+        "Website Link": "https://uic.edu"
+    },
+    {
+        "Name": "University of Illinois Urbana-Champaign",
+        "Wiki Link": "/wiki/University_of_Illinois_Urbana-Champaign",
+        "Website Link": "https://illinois.edu"
+    },
+    {
+        "Name": "University of Iowa",
+        "Wiki Link": "/wiki/University_of_Iowa",
+        "Website Link": "https://uiowa.edu"
+    },
+    {
+        "Name": "University of Kansas",
+        "Wiki Link": "/wiki/University_of_Kansas",
+        "Website Link": "https://www.ku.edu"
+    },
+    {
+        "Name": "University of Kentucky",
+        "Wiki Link": "/wiki/University_of_Kentucky",
+        "Website Link": "https://www.uky.edu/"
+    },
+    {
+        "Name": "University of Louisiana at Lafayette",
+        "Wiki Link": "/wiki/University_of_Louisiana_at_Lafayette",
+        "Website Link": "http://www.louisiana.edu"
+    },
+    {
+        "Name": "University of Louisville",
+        "Wiki Link": "/wiki/University_of_Louisville",
+        "Website Link": "https://louisville.edu/"
+    },
+    {
+        "Name": "University of Maine",
+        "Wiki Link": "/wiki/University_of_Maine",
+        "Website Link": "https://umaine.edu/"
+    },
+    {
+        "Name": "University of Maryland, Baltimore County",
+        "Wiki Link": "/wiki/University_of_Maryland,_Baltimore_County",
+        "Website Link": "http://umbc.edu"
+    },
+    {
+        "Name": "University of Maryland, College Park",
+        "Wiki Link": "/wiki/University_of_Maryland,_College_Park",
+        "Website Link": "https://umd.edu"
+    },
+    {
+        "Name": "University of Massachusetts Amherst",
+        "Wiki Link": "/wiki/University_of_Massachusetts_Amherst",
+        "Website Link": "https://www.umass.edu"
+    },
+    {
+        "Name": "University of Memphis",
+        "Wiki Link": "/wiki/University_of_Memphis",
+        "Website Link": "http://www.memphis.edu"
+    },
+    {
+        "Name": "University of Miami",
+        "Wiki Link": "/wiki/University_of_Miami",
+        "Website Link": "http://miami.edu"
+    },
+    {
+        "Name": "University of Michigan",
+        "Wiki Link": "/wiki/University_of_Michigan",
+        "Website Link": "https://umich.edu"
+    },
+    {
+        "Name": "University of Minnesota",
+        "Wiki Link": "/wiki/University_of_Minnesota",
+        "Website Link": "https://twin-cities.umn.edu/"
+    },
+    {
+        "Name": "University of Mississippi",
+        "Wiki Link": "/wiki/University_of_Mississippi",
+        "Website Link": "http://www.olemiss.edu"
+    },
+    {
+        "Name": "University of Missouri",
+        "Wiki Link": "/wiki/University_of_Missouri",
+        "Website Link": "https://missouri.edu"
+    },
+    {
+        "Name": "University of Montana",
+        "Wiki Link": "/wiki/University_of_Montana",
+        "Website Link": "http://www.umt.edu"
+    },
+    {
+        "Name": "University of Nebraska\u2013Lincoln",
+        "Wiki Link": "/wiki/University_of_Nebraska%E2%80%93Lincoln",
+        "Website Link": "https://www.unl.edu/"
+    },
+    {
+        "Name": "University of Nevada, Las Vegas",
+        "Wiki Link": "/wiki/University_of_Nevada,_Las_Vegas",
+        "Website Link": "https://unlv.edu"
+    },
+    {
+        "Name": "University of Nevada, Reno",
+        "Wiki Link": "/wiki/University_of_Nevada,_Reno",
+        "Website Link": "http://www.unr.edu"
+    },
+    {
+        "Name": "University of New Hampshire",
+        "Wiki Link": "/wiki/University_of_New_Hampshire",
+        "Website Link": "http://www.unh.edu"
+    },
+    {
+        "Name": "University of New Mexico",
+        "Wiki Link": "/wiki/University_of_New_Mexico",
+        "Website Link": "https://www.unm.edu"
+    },
+    {
+        "Name": "University of North Carolina at Chapel Hill",
+        "Wiki Link": "/wiki/University_of_North_Carolina_at_Chapel_Hill",
+        "Website Link": "https://unc.edu"
+    },
+    {
+        "Name": "University of North Texas",
+        "Wiki Link": "/wiki/University_of_North_Texas",
+        "Website Link": "https://www.unt.edu/"
+    },
+    {
+        "Name": "University of Notre Dame",
+        "Wiki Link": "/wiki/University_of_Notre_Dame",
+        "Website Link": "http://nd.edu"
+    },
+    {
+        "Name": "University of Oklahoma",
+        "Wiki Link": "/wiki/University_of_Oklahoma",
+        "Website Link": "http://www.ou.edu"
+    },
+    {
+        "Name": "University of Oregon",
+        "Wiki Link": "/wiki/University_of_Oregon",
+        "Website Link": "https://uoregon.edu"
+    },
+    {
+        "Name": "University of Pennsylvania",
+        "Wiki Link": "/wiki/University_of_Pennsylvania",
+        "Website Link": "https://upenn.edu"
+    },
+    {
+        "Name": "University of Pittsburgh",
+        "Wiki Link": "/wiki/University_of_Pittsburgh",
+        "Website Link": "https://pitt.edu"
+    },
+    {
+        "Name": "University of Rochester",
+        "Wiki Link": "/wiki/University_of_Rochester",
+        "Website Link": "https://www.rochester.edu"
+    },
+    {
+        "Name": "University of South Carolina",
+        "Wiki Link": "/wiki/University_of_South_Carolina",
+        "Website Link": "http://www.sc.edu/"
+    },
+    {
+        "Name": "University of South Florida",
+        "Wiki Link": "/wiki/University_of_South_Florida",
+        "Website Link": "http://www.usf.edu/"
+    },
+    {
+        "Name": "University of Southern California",
+        "Wiki Link": "/wiki/University_of_Southern_California",
+        "Website Link": "https://usc.edu"
+    },
+    {
+        "Name": "University of Southern Mississippi",
+        "Wiki Link": "/wiki/University_of_Southern_Mississippi",
+        "Website Link": "https://usm.edu"
+    },
+    {
+        "Name": "University of Tennessee",
+        "Wiki Link": "/wiki/University_of_Tennessee",
+        "Website Link": "https://www.utk.edu/"
+    },
+    {
+        "Name": "University of Texas at Arlington",
+        "Wiki Link": "/wiki/University_of_Texas_at_Arlington",
+        "Website Link": "http://www.uta.edu"
+    },
+    {
+        "Name": "University of Texas at Austin",
+        "Wiki Link": "/wiki/University_of_Texas_at_Austin",
+        "Website Link": "https://utexas.edu"
+    },
+    {
+        "Name": "University of Texas at Dallas",
+        "Wiki Link": "/wiki/University_of_Texas_at_Dallas",
+        "Website Link": "http://utdallas.edu"
+    },
+    {
+        "Name": "University of Texas at El Paso",
+        "Wiki Link": "/wiki/University_of_Texas_at_El_Paso",
+        "Website Link": "https://www.utep.edu"
+    },
+    {
+        "Name": "University of Texas at San Antonio",
+        "Wiki Link": "/wiki/University_of_Texas_at_San_Antonio",
+        "Website Link": "https://www.utsa.edu"
+    },
+    {
+        "Name": "University of Utah",
+        "Wiki Link": "/wiki/University_of_Utah",
+        "Website Link": "https://www.utah.edu"
+    },
+    {
+        "Name": "University of Virginia",
+        "Wiki Link": "/wiki/University_of_Virginia",
+        "Website Link": "https://virginia.edu"
+    },
+    {
+        "Name": "University of Washington",
+        "Wiki Link": "/wiki/University_of_Washington",
+        "Website Link": "https://washington.edu"
+    },
+    {
+        "Name": "University of Wisconsin\u2013Madison",
+        "Wiki Link": "/wiki/University_of_Wisconsin%E2%80%93Madison",
+        "Website Link": "https://wisc.edu"
+    },
+    {
+        "Name": "University of Wisconsin\u2013Milwaukee",
+        "Wiki Link": "/wiki/University_of_Wisconsin%E2%80%93Milwaukee",
+        "Website Link": "http://www.uwm.edu"
+    },
+    {
+        "Name": "Utah State University",
+        "Wiki Link": "/wiki/Utah_State_University",
+        "Website Link": "https://www.usu.edu"
+    },
+    {
+        "Name": "Vanderbilt University",
+        "Wiki Link": "/wiki/Vanderbilt_University",
+        "Website Link": "https://vanderbilt.edu"
+    },
+    {
+        "Name": "Virginia Commonwealth University",
+        "Wiki Link": "/wiki/Virginia_Commonwealth_University",
+        "Website Link": "https://vcu.edu"
+    },
+    {
+        "Name": "Virginia Tech",
+        "Wiki Link": "/wiki/Virginia_Tech",
+        "Website Link": "https://www.vt.edu/"
+    },
+    {
+        "Name": "Washington State University",
+        "Wiki Link": "/wiki/Washington_State_University",
+        "Website Link": "https://wsu.edu"
+    },
+    {
+        "Name": "Washington University in St. Louis",
+        "Wiki Link": "/wiki/Washington_University_in_St._Louis",
+        "Website Link": "https://washu.edu/"
+    },
+    {
+        "Name": "Wayne State University",
+        "Wiki Link": "/wiki/Wayne_State_University",
+        "Website Link": "https://wayne.edu"
+    },
+    {
+        "Name": "West Virginia University",
+        "Wiki Link": "/wiki/West_Virginia_University",
+        "Website Link": "http://www.wvu.edu"
+    },
+    {
+        "Name": "Yale University",
+        "Wiki Link": "/wiki/Yale_University",
+        "Website Link": "https://yale.edu"
+    },
+    {
+        "Name": "Air Force Institute of Technology",
+        "Wiki Link": "/wiki/Air_Force_Institute_of_Technology",
+        "Website Link": "http://www.afit.edu/"
+    },
+    {
+        "Name": "American University",
+        "Wiki Link": "/wiki/American_University",
+        "Website Link": "http://www.american.edu"
+    },
+    {
+        "Name": "Arizona State University Digital Immersion",
+        "Wiki Link": "/wiki/Arizona_State_University#ASU_Online",
+        "Website Link": "https://www.asu.edu/"
+    },
+    {
+        "Name": "Arkansas State University",
+        "Wiki Link": "/wiki/Arkansas_State_University",
+        "Website Link": "http://www.AState.edu"
+    },
+    {
+        "Name": "Augusta University",
+        "Wiki Link": "/wiki/Augusta_University",
+        "Website Link": "https://www.augusta.edu"
+    },
+    {
+        "Name": "Azusa Pacific University",
+        "Wiki Link": "/wiki/Azusa_Pacific_University",
+        "Website Link": "http://apu.edu"
+    },
+    {
+        "Name": "Ball State University",
+        "Wiki Link": "/wiki/Ball_State_University",
+        "Website Link": "http://www.bsu.edu"
+    },
+    {
+        "Name": "Boise State University",
+        "Wiki Link": "/wiki/Boise_State_University",
+        "Website Link": "https://boisestate.edu"
+    },
+    {
+        "Name": "Bowling Green State University",
+        "Wiki Link": "/wiki/Bowling_Green_State_University",
+        "Website Link": "https://www.bgsu.edu"
+    },
+    {
+        "Name": "Brigham Young University",
+        "Wiki Link": "/wiki/Brigham_Young_University",
+        "Website Link": "https://www.byu.edu/"
+    },
+    {
+        "Name": "California State University, East Bay",
+        "Wiki Link": "/wiki/California_State_University,_East_Bay",
+        "Website Link": "https://www.csueastbay.edu/"
+    },
+    {
+        "Name": "California State University, Fresno",
+        "Wiki Link": "/wiki/California_State_University,_Fresno",
+        "Website Link": "http://www.fresnostate.edu"
+    },
+    {
+        "Name": "California State University, Fullerton",
+        "Wiki Link": "/wiki/California_State_University,_Fullerton",
+        "Website Link": "http://fullerton.edu"
+    },
+    {
+        "Name": "California State University, Long Beach",
+        "Wiki Link": "/wiki/California_State_University,_Long_Beach",
+        "Website Link": "http://csulb.edu"
+    },
+    {
+        "Name": "California State University, San Bernardino",
+        "Wiki Link": "/wiki/California_State_University,_San_Bernardino",
+        "Website Link": "http://www.csusb.edu"
+    },
+    {
+        "Name": "Catholic University of America",
+        "Wiki Link": "/wiki/Catholic_University_of_America",
+        "Website Link": "https://www.catholic.edu"
+    },
+    {
+        "Name": "Central Michigan University",
+        "Wiki Link": "/wiki/Central_Michigan_University",
+        "Website Link": "https://cmich.edu"
+    },
+    {
+        "Name": "Chapman University",
+        "Wiki Link": "/wiki/Chapman_University",
+        "Website Link": "https://www.chapman.edu/"
+    },
+    {
+        "Name": "Claremont Graduate University",
+        "Wiki Link": "/wiki/Claremont_Graduate_University",
+        "Website Link": "http://cgu.edu"
+    },
+    {
+        "Name": "Clark Atlanta University",
+        "Wiki Link": "/wiki/Clark_Atlanta_University",
+        "Website Link": "http://www.cau.edu"
+    },
+    {
+        "Name": "Clark University",
+        "Wiki Link": "/wiki/Clark_University",
+        "Website Link": "https://www.clarku.edu/"
+    },
+    {
+        "Name": "Clarkson University",
+        "Wiki Link": "/wiki/Clarkson_University",
+        "Website Link": "https://www.clarkson.edu"
+    },
+    {
+        "Name": "Cleveland State University",
+        "Wiki Link": "/wiki/Cleveland_State_University",
+        "Website Link": "http://www.csuohio.edu"
+    },
+    {
+        "Name": "College of William & Mary",
+        "Wiki Link": "/wiki/College_of_William_%26_Mary",
+        "Website Link": "https://wm.edu"
+    },
+    {
+        "Name": "Creighton University",
+        "Wiki Link": "/wiki/Creighton_University",
+        "Website Link": "http://creighton.edu"
+    },
+    {
+        "Name": "CUNY City College",
+        "Wiki Link": "/wiki/City_College_of_New_York",
+        "Website Link": "http://www.ccny.cuny.edu"
+    },
+    {
+        "Name": "DePaul University",
+        "Wiki Link": "/wiki/DePaul_University",
+        "Website Link": "http://depaul.edu"
+    },
+    {
+        "Name": "Duquesne University",
+        "Wiki Link": "/wiki/Duquesne_University",
+        "Website Link": "http://www.duq.edu"
+    },
+    {
+        "Name": "East Carolina University",
+        "Wiki Link": "/wiki/East_Carolina_University",
+        "Website Link": "http://www.ecu.edu"
+    },
+    {
+        "Name": "East Tennessee State University",
+        "Wiki Link": "/wiki/East_Tennessee_State_University",
+        "Website Link": "https://www.etsu.edu"
+    },
+    {
+        "Name": "Eastern Michigan University",
+        "Wiki Link": "/wiki/Eastern_Michigan_University",
+        "Website Link": "http://www.emich.edu"
+    },
+    {
+        "Name": "Florida Agricultural and Mechanical University",
+        "Wiki Link": "/wiki/Florida_A%26M_University",
+        "Website Link": "http://www.famu.edu"
+    },
+    {
+        "Name": "Florida Atlantic University",
+        "Wiki Link": "/wiki/Florida_Atlantic_University",
+        "Website Link": "http://fau.edu"
+    },
+    {
+        "Name": "Florida Institute of Technology",
+        "Wiki Link": "/wiki/Florida_Institute_of_Technology",
+        "Website Link": "http://www.fit.edu"
+    },
+    {
+        "Name": "Fordham University",
+        "Wiki Link": "/wiki/Fordham_University",
+        "Website Link": "https://fordham.edu/"
+    },
+    {
+        "Name": "Georgia Southern University",
+        "Wiki Link": "/wiki/Georgia_Southern_University",
+        "Website Link": "http://www.georgiasouthern.edu"
+    },
+    {
+        "Name": "Howard University",
+        "Wiki Link": "/wiki/Howard_University",
+        "Website Link": "http://www.howard.edu"
+    },
+    {
+        "Name": "Idaho State University",
+        "Wiki Link": "/wiki/Idaho_State_University",
+        "Website Link": "http://isu.edu"
+    },
+    {
+        "Name": "Illinois Institute of Technology",
+        "Wiki Link": "/wiki/Illinois_Institute_of_Technology",
+        "Website Link": "https://iit.edu"
+    },
+    {
+        "Name": "Illinois State University",
+        "Wiki Link": "/wiki/Illinois_State_University",
+        "Website Link": "https://illinoisstate.edu"
+    },
+    {
+        "Name": "Indiana University Indianapolis",
+        "Wiki Link": "/wiki/Indiana_University_Indianapolis",
+        "Website Link": "https://indianapolis.iu.edu/"
+    },
+    {
+        "Name": "Indiana University of Pennsylvania",
+        "Wiki Link": "/wiki/Indiana_University_of_Pennsylvania",
+        "Website Link": "https://www.iup.edu/"
+    },
+    {
+        "Name": "Jackson State University",
+        "Wiki Link": "/wiki/Jackson_State_University",
+        "Website Link": "http://www.jsums.edu"
+    },
+    {
+        "Name": "James Madison University",
+        "Wiki Link": "/wiki/James_Madison_University",
+        "Website Link": "http://jmu.edu"
+    },
+    {
+        "Name": "Kennesaw State University",
+        "Wiki Link": "/wiki/Kennesaw_State_University",
+        "Website Link": "http://www.kennesaw.edu"
+    },
+    {
+        "Name": "Lehigh University",
+        "Wiki Link": "/wiki/Lehigh_University",
+        "Website Link": "http://www.lehigh.edu"
+    },
+    {
+        "Name": "Loma Linda University",
+        "Wiki Link": "/wiki/Loma_Linda_University",
+        "Website Link": "http://www.llu.edu/"
+    },
+    {
+        "Name": "Long Island University",
+        "Wiki Link": "/wiki/LIU_Post",
+        "Website Link": "http://www.liu.edu/post"
+    },
+    {
+        "Name": "Louisiana Tech University",
+        "Wiki Link": "/wiki/Louisiana_Tech_University",
+        "Website Link": "http://www.latech.edu"
+    },
+    {
+        "Name": "Loyola Marymount University",
+        "Wiki Link": "/wiki/Loyola_Marymount_University",
+        "Website Link": "http://www.lmu.edu"
+    },
+    {
+        "Name": "Loyola University Chicago",
+        "Wiki Link": "/wiki/Loyola_University_Chicago",
+        "Website Link": "http://luc.edu"
+    },
+    {
+        "Name": "Marquette University",
+        "Wiki Link": "/wiki/Marquette_University",
+        "Website Link": "http://marquette.edu"
+    },
+    {
+        "Name": "Marshall University",
+        "Wiki Link": "/wiki/Marshall_University",
+        "Website Link": "http://www.marshall.edu"
+    },
+    {
+        "Name": "Mercer University",
+        "Wiki Link": "/wiki/Mercer_University",
+        "Website Link": "http://www.mercer.edu"
+    },
+    {
+        "Name": "Miami University",
+        "Wiki Link": "/wiki/Miami_University",
+        "Website Link": "http://miamioh.edu"
+    },
+    {
+        "Name": "Michigan Technological University",
+        "Wiki Link": "/wiki/Michigan_Technological_University",
+        "Website Link": "http://mtu.edu"
+    },
+    {
+        "Name": "Middle Tennessee State University",
+        "Wiki Link": "/wiki/Middle_Tennessee_State_University",
+        "Website Link": "https://www.mtsu.edu"
+    },
+    {
+        "Name": "Missouri University of Science and Technology",
+        "Wiki Link": "/wiki/Missouri_University_of_Science_and_Technology",
+        "Website Link": "http://www.mst.edu"
+    },
+    {
+        "Name": "Montclair State University",
+        "Wiki Link": "/wiki/Montclair_State_University",
+        "Website Link": "https://www.montclair.edu/"
+    },
+    {
+        "Name": "Morgan State University",
+        "Wiki Link": "/wiki/Morgan_State_University",
+        "Website Link": "https://www.morgan.edu"
+    },
+    {
+        "Name": "New Mexico State University",
+        "Wiki Link": "/wiki/New_Mexico_State_University",
+        "Website Link": "http://www.nmsu.edu"
+    },
+    {
+        "Name": "North Carolina A&T State University",
+        "Wiki Link": "/wiki/North_Carolina_A%26T_State_University",
+        "Website Link": "https://ncat.edu"
+    },
+    {
+        "Name": "Northern Arizona University",
+        "Wiki Link": "/wiki/Northern_Arizona_University",
+        "Website Link": "http://nau.edu"
+    },
+    {
+        "Name": "Northern Illinois University",
+        "Wiki Link": "/wiki/Northern_Illinois_University",
+        "Website Link": "http://www.niu.edu"
+    },
+    {
+        "Name": "Nova Southeastern University",
+        "Wiki Link": "/wiki/Nova_Southeastern_University",
+        "Website Link": "http://www.nova.edu"
+    },
+    {
+        "Name": "Oakland University",
+        "Wiki Link": "/wiki/Oakland_University",
+        "Website Link": "http://www.oakland.edu"
+    },
+    {
+        "Name": "Portland State University",
+        "Wiki Link": "/wiki/Portland_State_University",
+        "Website Link": "http://www.pdx.edu"
+    },
+    {
+        "Name": "Prairie View A&M University",
+        "Wiki Link": "/wiki/Prairie_View_A%26M_University",
+        "Website Link": "https://www.pvamu.edu"
+    },
+    {
+        "Name": "Rochester Institute of Technology",
+        "Wiki Link": "/wiki/Rochester_Institute_of_Technology",
+        "Website Link": "https://www.rit.edu/"
+    },
+    {
+        "Name": "Rowan University",
+        "Wiki Link": "/wiki/Rowan_University",
+        "Website Link": "https://www.rowan.edu/"
+    },
+    {
+        "Name": "Rutgers University\u2013Camden",
+        "Wiki Link": "/wiki/Rutgers_University%E2%80%93Camden",
+        "Website Link": "https://camden.rutgers.edu"
+    },
+    {
+        "Name": "Rutgers University\u2013Newark",
+        "Wiki Link": "/wiki/Rutgers_University%E2%80%93Newark",
+        "Website Link": "https://newark.rutgers.edu"
+    },
+    {
+        "Name": "Saint Louis University",
+        "Wiki Link": "/wiki/Saint_Louis_University",
+        "Website Link": "http://www.slu.edu"
+    },
+    {
+        "Name": "Sam Houston State University",
+        "Wiki Link": "/wiki/Sam_Houston_State_University",
+        "Website Link": "http://www.shsu.edu"
+    },
+    {
+        "Name": "San Diego State University",
+        "Wiki Link": "/wiki/San_Diego_State_University",
+        "Website Link": "http://www.sdsu.edu"
+    },
+    {
+        "Name": "San Francisco State University",
+        "Wiki Link": "/wiki/San_Francisco_State_University",
+        "Website Link": "http://www.sfsu.edu"
+    },
+    {
+        "Name": "Seton Hall University",
+        "Wiki Link": "/wiki/Seton_Hall_University",
+        "Website Link": "http://shu.edu"
+    },
+    {
+        "Name": "South Dakota State University",
+        "Wiki Link": "/wiki/South_Dakota_State_University",
+        "Website Link": "http://sdstate.edu"
+    },
+    {
+        "Name": "Southern Illinois University Carbondale",
+        "Wiki Link": "/wiki/Southern_Illinois_University_Carbondale",
+        "Website Link": "http://siu.edu"
+    },
+    {
+        "Name": "Southern Methodist University",
+        "Wiki Link": "/wiki/Southern_Methodist_University",
+        "Website Link": "http://www.smu.edu"
+    },
+    {
+        "Name": "Southern University",
+        "Wiki Link": "/wiki/Southern_University",
+        "Website Link": "http://www.subr.edu"
+    },
+    {
+        "Name": "Stevens Institute of Technology",
+        "Wiki Link": "/wiki/Stevens_Institute_of_Technology",
+        "Website Link": "http://stevens.edu"
+    },
+    {
+        "Name": "SUNY College of Environmental Science and Forestry",
+        "Wiki Link": "/wiki/State_University_of_New_York_College_of_Environmental_Science_and_Forestry",
+        "Website Link": "https://www.esf.edu"
+    },
+    {
+        "Name": "Tarleton State University",
+        "Wiki Link": "/wiki/Tarleton_State_University",
+        "Website Link": "https://www.tarleton.edu"
+    },
+    {
+        "Name": "Teachers College, Columbia University",
+        "Wiki Link": "/wiki/Teachers_College,_Columbia_University",
+        "Website Link": "https://www.tc.columbia.edu"
+    },
+    {
+        "Name": "Tennessee State University",
+        "Wiki Link": "/wiki/Tennessee_State_University",
+        "Website Link": "http://www.tnstate.edu"
+    },
+    {
+        "Name": "Tennessee Technological University",
+        "Wiki Link": "/wiki/Tennessee_Tech",
+        "Website Link": "http://tntech.edu"
+    },
+    {
+        "Name": "Texas A&M University\u2013Corpus Christi",
+        "Wiki Link": "/wiki/Texas_A%26M_University%E2%80%93Corpus_Christi",
+        "Website Link": "https://tamucc.edu"
+    },
+    {
+        "Name": "Texas A&M University\u2013Kingsville",
+        "Wiki Link": "/wiki/Texas_A%26M_University%E2%80%93Kingsville",
+        "Website Link": "https://tamuk.edu"
+    },
+    {
+        "Name": "Texas Christian University",
+        "Wiki Link": "/wiki/Texas_Christian_University",
+        "Website Link": "https://www.tcu.edu/"
+    },
+    {
+        "Name": "Texas Southern University",
+        "Wiki Link": "/wiki/Texas_Southern_University",
+        "Website Link": "http://www.tsu.edu"
+    },
+    {
+        "Name": "Texas State University",
+        "Wiki Link": "/wiki/Texas_State_University",
+        "Website Link": "http://txst.edu"
+    },
+    {
+        "Name": "The New School",
+        "Wiki Link": "/wiki/The_New_School",
+        "Website Link": "https://www.newschool.edu"
+    },
+    {
+        "Name": "Thomas Jefferson University",
+        "Wiki Link": "/wiki/Thomas_Jefferson_University",
+        "Website Link": "https://www.jefferson.edu/"
+    },
+    {
+        "Name": "University of Akron",
+        "Wiki Link": "/wiki/University_of_Akron",
+        "Website Link": "http://uakron.edu"
+    },
+    {
+        "Name": "University of Alaska Fairbanks",
+        "Wiki Link": "/wiki/University_of_Alaska_Fairbanks",
+        "Website Link": "http://www.uaf.edu"
+    },
+    {
+        "Name": "University of Arkansas at Little Rock",
+        "Wiki Link": "/wiki/University_of_Arkansas_at_Little_Rock",
+        "Website Link": "http://ualr.edu"
+    },
+    {
+        "Name": "University of California, Merced",
+        "Wiki Link": "/wiki/University_of_California,_Merced",
+        "Website Link": "https://www.ucmerced.edu"
+    },
+    {
+        "Name": "University of Colorado Colorado Springs",
+        "Wiki Link": "/wiki/University_of_Colorado_Colorado_Springs",
+        "Website Link": "http://www.uccs.edu"
+    },
+    {
+        "Name": "University of Dayton",
+        "Wiki Link": "/wiki/University_of_Dayton",
+        "Website Link": "http://udayton.edu"
+    },
+    {
+        "Name": "University of Idaho",
+        "Wiki Link": "/wiki/University_of_Idaho",
+        "Website Link": "http://www.uidaho.edu"
+    },
+    {
+        "Name": "University of Maryland Eastern Shore",
+        "Wiki Link": "/wiki/University_of_Maryland_Eastern_Shore",
+        "Website Link": "http://www.umes.edu"
+    },
+    {
+        "Name": "University of Massachusetts Boston",
+        "Wiki Link": "/wiki/University_of_Massachusetts_Boston",
+        "Website Link": "http://www.umb.edu"
+    },
+    {
+        "Name": "University of Massachusetts Dartmouth",
+        "Wiki Link": "/wiki/University_of_Massachusetts_Dartmouth",
+        "Website Link": "https://umassd.edu"
+    },
+    {
+        "Name": "University of Massachusetts Lowell",
+        "Wiki Link": "/wiki/University_of_Massachusetts_Lowell",
+        "Website Link": "https://www.uml.edu"
+    },
+    {
+        "Name": "University of Missouri\u2013Kansas City",
+        "Wiki Link": "/wiki/University_of_Missouri%E2%80%93Kansas_City",
+        "Website Link": "http://www.umkc.edu"
+    },
+    {
+        "Name": "University of Missouri\u2013St. Louis",
+        "Wiki Link": "/wiki/University_of_Missouri%E2%80%93St._Louis",
+        "Website Link": "https://www.umsl.edu"
+    },
+    {
+        "Name": "University of Nebraska Omaha",
+        "Wiki Link": "/wiki/University_of_Nebraska_Omaha",
+        "Website Link": "http://unomaha.edu"
+    },
+    {
+        "Name": "University of New England",
+        "Wiki Link": "/wiki/University_of_New_England_(United_States)",
+        "Website Link": "http://www.une.edu"
+    },
+    {
+        "Name": "University of New Orleans",
+        "Wiki Link": "/wiki/University_of_New_Orleans",
+        "Website Link": "http://uno.edu"
+    },
+    {
+        "Name": "University of North Carolina at Charlotte",
+        "Wiki Link": "/wiki/University_of_North_Carolina_at_Charlotte",
+        "Website Link": "https://charlotte.edu"
+    },
+    {
+        "Name": "University of North Carolina at Greensboro",
+        "Wiki Link": "/wiki/University_of_North_Carolina_at_Greensboro",
+        "Website Link": "http://www.uncg.edu"
+    },
+    {
+        "Name": "University of North Carolina Wilmington",
+        "Wiki Link": "/wiki/University_of_North_Carolina_Wilmington",
+        "Website Link": "http://uncw.edu"
+    },
+    {
+        "Name": "University of North Dakota",
+        "Wiki Link": "/wiki/University_of_North_Dakota",
+        "Website Link": "http://www.und.edu"
+    },
+    {
+        "Name": "University of North Florida",
+        "Wiki Link": "/wiki/University_of_North_Florida",
+        "Website Link": "http://www.unf.edu"
+    },
+    {
+        "Name": "University of Puerto Rico, R\u00edo Piedras Campus",
+        "Wiki Link": "/wiki/University_of_Puerto_Rico,_R%C3%ADo_Piedras_Campus",
+        "Website Link": "https://www.uprrp.edu/english/"
+    },
+    {
+        "Name": "University of Rhode Island",
+        "Wiki Link": "/wiki/University_of_Rhode_Island",
+        "Website Link": "http://www.uri.edu"
+    },
+    {
+        "Name": "University of San Diego",
+        "Wiki Link": "/wiki/University_of_San_Diego",
+        "Website Link": "http://www.sandiego.edu"
+    },
+    {
+        "Name": "University of South Alabama",
+        "Wiki Link": "/wiki/University_of_South_Alabama",
+        "Website Link": "http://www.southalabama.edu"
+    },
+    {
+        "Name": "University of South Dakota",
+        "Wiki Link": "/wiki/University_of_South_Dakota",
+        "Website Link": "http://www.usd.edu"
+    },
+    {
+        "Name": "University of Texas at Tyler",
+        "Wiki Link": "/wiki/University_of_Texas_at_Tyler",
+        "Website Link": "http://www.uttyler.edu"
+    },
+    {
+        "Name": "University of Texas Rio Grande Valley",
+        "Wiki Link": "/wiki/University_of_Texas_Rio_Grande_Valley",
+        "Website Link": "http://www.utrgv.edu"
+    },
+    {
+        "Name": "University of Toledo",
+        "Wiki Link": "/wiki/University_of_Toledo",
+        "Website Link": "https://www.utoledo.edu/"
+    },
+    {
+        "Name": "University of Tulsa",
+        "Wiki Link": "/wiki/University_of_Tulsa",
+        "Website Link": "http://www.utulsa.edu"
+    },
+    {
+        "Name": "University of Vermont",
+        "Wiki Link": "/wiki/University_of_Vermont",
+        "Website Link": "https://www.uvm.edu/"
+    },
+    {
+        "Name": "University of Wyoming",
+        "Wiki Link": "/wiki/University_of_Wyoming",
+        "Website Link": "http://www.uwyo.edu"
+    },
+    {
+        "Name": "Villanova University",
+        "Wiki Link": "/wiki/Villanova_University",
+        "Website Link": "http://villanova.edu"
+    },
+    {
+        "Name": "Wake Forest University",
+        "Wiki Link": "/wiki/Wake_Forest_University",
+        "Website Link": "https://wfu.edu"
+    },
+    {
+        "Name": "West Chester University of Pennsylvania",
+        "Wiki Link": "/wiki/West_Chester_University",
+        "Website Link": "http://www.wcupa.edu"
+    },
+    {
+        "Name": "Western Michigan University",
+        "Wiki Link": "/wiki/Western_Michigan_University",
+        "Website Link": "http://www.wmich.edu"
+    },
+    {
+        "Name": "Wichita State University",
+        "Wiki Link": "/wiki/Wichita_State_University",
+        "Website Link": "https://www.wichita.edu/"
+    },
+    {
+        "Name": "Worcester Polytechnic Institute",
+        "Wiki Link": "/wiki/Worcester_Polytechnic_Institute",
+        "Website Link": "http://www.wpi.edu"
+    },
+    {
+        "Name": "Wright State University",
+        "Wiki Link": "/wiki/Wright_State_University",
+        "Website Link": "http://wright.edu"
+    },
+    {
+        "Name": "Albert Einstein College of Medicine",
+        "Wiki Link": "/wiki/Albert_Einstein_College_of_Medicine",
+        "Website Link": "https://www.einsteinmed.edu"
+    },
+    {
+        "Name": "Baylor College of Medicine",
+        "Wiki Link": "/wiki/Baylor_College_of_Medicine",
+        "Website Link": "https://bcm.edu"
+    },
+    {
+        "Name": "Icahn School of Medicine at Mount Sinai",
+        "Wiki Link": "/wiki/Icahn_School_of_Medicine_at_Mount_Sinai",
+        "Website Link": "http://icahn.mssm.edu"
+    },
+    {
+        "Name": "Mayo Clinic College of Medicine and Science",
+        "Wiki Link": "/wiki/Mayo_Clinic_College_of_Medicine_and_Science",
+        "Website Link": "https://college.mayo.edu"
+    },
+    {
+        "Name": "Medical College of Wisconsin",
+        "Wiki Link": "/wiki/Medical_College_of_Wisconsin",
+        "Website Link": "http://www.mcw.edu"
+    },
+    {
+        "Name": "Medical University of South Carolina",
+        "Wiki Link": "/wiki/Medical_University_of_South_Carolina",
+        "Website Link": "https://musc.edu"
+    },
+    {
+        "Name": "Oregon Health & Science University",
+        "Wiki Link": "/wiki/Oregon_Health_%26_Science_University",
+        "Website Link": "http://www.ohsu.edu"
+    },
+    {
+        "Name": "Rockefeller University",
+        "Wiki Link": "/wiki/Rockefeller_University",
+        "Website Link": "https://rockefeller.edu"
+    },
+    {
+        "Name": "Texas Tech University Health Sciences Center",
+        "Wiki Link": "/wiki/Texas_Tech_University_Health_Sciences_Center",
+        "Website Link": "http://www.ttuhsc.edu"
+    },
+    {
+        "Name": "Uniformed Services University of the Health Sciences",
+        "Wiki Link": "/wiki/Uniformed_Services_University_of_the_Health_Sciences",
+        "Website Link": "http://www.usuhs.edu"
+    },
+    {
+        "Name": "University of Arkansas for Medical Sciences",
+        "Wiki Link": "/wiki/University_of_Arkansas_for_Medical_Sciences",
+        "Website Link": "http://www.uams.edu"
+    },
+    {
+        "Name": "University of California, San Francisco",
+        "Wiki Link": "/wiki/University_of_California,_San_Francisco",
+        "Website Link": "https://ucsf.edu"
+    },
+    {
+        "Name": "University of Maryland, Baltimore",
+        "Wiki Link": "/wiki/University_of_Maryland,_Baltimore",
+        "Website Link": "https://umaryland.edu"
+    },
+    {
+        "Name": "University of Massachusetts Chan Medical School",
+        "Wiki Link": "/wiki/UMass_Chan_Medical_School",
+        "Website Link": "http://www.umassmed.edu"
+    },
+    {
+        "Name": "University of Nebraska Medical Center",
+        "Wiki Link": "/wiki/University_of_Nebraska_Medical_Center",
+        "Website Link": "http://www.unmc.edu"
+    },
+    {
+        "Name": "University of Oklahoma Health Sciences Center",
+        "Wiki Link": "/wiki/University_of_Oklahoma_Health_Sciences_Center",
+        "Website Link": "http://www.ouhsc.edu"
+    },
+    {
+        "Name": "University of Tennessee Health Science Center",
+        "Wiki Link": "/wiki/University_of_Tennessee_Health_Science_Center",
+        "Website Link": "http://www.uthsc.edu"
+    },
+    {
+        "Name": "University of Texas Health Science Center at Houston",
+        "Wiki Link": "/wiki/University_of_Texas_Health_Science_Center_at_Houston",
+        "Website Link": "https://www.uth.edu"
+    },
+    {
+        "Name": "University of Texas Health Science Center at San Antonio",
+        "Wiki Link": "/wiki/University_of_Texas_Health_Science_Center_at_San_Antonio",
+        "Website Link": "https://www.uthscsa.edu"
+    },
+    {
+        "Name": "University of Texas Medical Branch",
+        "Wiki Link": "/wiki/University_of_Texas_Medical_Branch",
+        "Website Link": "http://www.utmb.edu/"
+    },
+    {
+        "Name": "University of Texas Southwestern Medical Center",
+        "Wiki Link": "/wiki/University_of_Texas_Southwestern_Medical_Center",
+        "Website Link": "http://www.utsouthwestern.edu/"
+    },
+    {
+        "Name": "Virginia Health Sciences",
+        "Wiki Link": "/wiki/Virginia_Health_Sciences",
+        "Website Link": "https://www.evms.edu"
+    },
+    {
+        "Name": "Weill Cornell Medicine",
+        "Wiki Link": "/wiki/Weill_Cornell_Medicine",
+        "Website Link": "http://weill.cornell.edu"
+    }
+]
